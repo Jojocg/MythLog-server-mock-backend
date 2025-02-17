@@ -1,0 +1,7046 @@
+{
+  "Gods": [
+    {
+      "name": "Zeus",
+      "description": "The king of the gods, the ruler of Mount Olympus, and the god of the sky, lightning, thunder, law, order, and justice.",
+      "category": "God",
+      "attributes": {
+        "origin": "Son of Cronus and Rhea",
+        "symbols": [
+          "Thunderbolt",
+          "Eagle",
+          "Oak"
+        ],
+        "abode": "Mount Olympus",
+        "powers": [
+          "Control over the weather",
+          "Ability to hurl thunderbolts"
+        ],
+        "family": {
+          "parents": [
+            "Cronus",
+            "Rhea"
+          ],
+          "siblings": [
+            "Hades",
+            "Poseidon",
+            "Hestia",
+            "Demeter"
+          ],
+          "spouse": [
+            "Hera"
+          ]
+        },
+        "stories": [
+          "Defeat of the Titans",
+          "The Birth of Hercules"
+        ]
+      },
+      "image": "/images/zeus.png",
+      "id": 1
+    },
+    {
+      "name": "Athena",
+      "description": "Goddess of wisdom, war, and crafts. Patroness of Athens.",
+      "category": "Goddess",
+      "attributes": {
+        "origin": "Sprung fully grown and armored from the forehead of Zeus",
+        "symbols": [
+          "Owl",
+          "Aegis (shield)"
+        ],
+        "abode": "Mount Olympus",
+        "powers": [
+          "Wisdom",
+          "Strategic warfare",
+          "Craftsmanship"
+        ],
+        "family": {
+          "parents": [
+            "Zeus"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "The founding of Athens",
+          "Role in the Trojan War"
+        ]
+      },
+      "image": "/images/athena.png",
+      "id": 2
+    },
+    {
+      "name": "Hestia",
+      "description": "Goddess of the hearth, home, and domesticity.",
+      "category": "Goddess",
+      "attributes": {
+        "origin": "Daughter of Cronus and Rhea",
+        "symbols": [
+          "Hearth",
+          "Fire"
+        ],
+        "abode": "Mount Olympus",
+        "powers": [
+          "Control over domestic life",
+          "Keeper of the hearth"
+        ],
+        "family": {
+          "parents": [
+            "Cronus",
+            "Rhea"
+          ],
+          "siblings": [
+            "Zeus",
+            "Poseidon",
+            "Hades",
+            "Demeter",
+            "Hera"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Maintaining the sacred fire of Olympus"
+        ]
+      },
+      "image": "https://example.com/hestia.jpg",
+      "id": 3
+    },
+    {
+      "name": "Apollo",
+      "description": "God of music, poetry, prophecy, and medicine. Twin brother of Artemis.",
+      "category": "God",
+      "attributes": {
+        "origin": "Son of Zeus and Leto",
+        "symbols": [
+          "Lyre",
+          "Sun chariot"
+        ],
+        "abode": "Delphi (sacred site)",
+        "powers": [
+          "Healing",
+          "Prophecy",
+          "Archery"
+        ],
+        "family": {
+          "parents": [
+            "Zeus",
+            "Leto"
+          ],
+          "siblings": [
+            "Artemis"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Slaying of Python",
+          "Musical contest with Marsyas"
+        ]
+      },
+      "image": "https://example.com/apollo.jpg",
+      "id": 4
+    },
+    {
+      "name": "Artemis",
+      "description": "Goddess of the hunt, wilderness, and childbirth. Twin sister of Apollo.",
+      "category": "Goddess",
+      "attributes": {
+        "origin": "Daughter of Zeus and Leto",
+        "symbols": [
+          "Bow and arrows",
+          "Deer"
+        ],
+        "abode": "Mount Olympus and forests",
+        "powers": [
+          "Hunting prowess",
+          "Protection of young girls and animals"
+        ],
+        "family": {
+          "parents": [
+            "Zeus",
+            "Leto"
+          ],
+          "siblings": [
+            "Apollo"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Actaeon's transformation",
+          "Involvement in the Trojan War"
+        ]
+      },
+      "image": "https://example.com/artemis.jpg",
+      "id": 5
+    },
+    {
+      "name": "Poseidon",
+      "description": "God of the sea, earthquakes, and horses. Brother of Zeus and Hades.",
+      "category": "God",
+      "attributes": {
+        "origin": "Son of Cronus and Rhea",
+        "symbols": [
+          "Trident",
+          "Horse"
+        ],
+        "abode": "Mount Olympus and the oceans",
+        "powers": [
+          "Control over the sea",
+          "Creation of earthquakes"
+        ],
+        "family": {
+          "parents": [
+            "Cronus",
+            "Rhea"
+          ],
+          "siblings": [
+            "Zeus",
+            "Hades",
+            "Hestia",
+            "Demeter"
+          ],
+          "spouse": [
+            "Amphitrite"
+          ]
+        },
+        "stories": [
+          "Creation of the horse",
+          "Role in the Odyssey"
+        ]
+      },
+      "image": "https://example.com/poseidon.jpg",
+      "id": 6
+    },
+    {
+      "name": "Hades",
+      "description": "God of the underworld and the dead. Brother of Zeus and Poseidon.",
+      "category": "God",
+      "attributes": {
+        "origin": "Son of Cronus and Rhea",
+        "symbols": [
+          "Bident",
+          "Helmet of invisibility"
+        ],
+        "abode": "Underworld (Hades)",
+        "powers": [
+          "Control over the dead",
+          "Wealth of the earth"
+        ],
+        "family": {
+          "parents": [
+            "Cronus",
+            "Rhea"
+          ],
+          "siblings": [
+            "Zeus",
+            "Poseidon",
+            "Hestia",
+            "Demeter"
+          ],
+          "spouse": [
+            "Persephone"
+          ]
+        },
+        "stories": [
+          "Abduction of Persephone",
+          "Judgment of the dead"
+        ]
+      },
+      "image": "https://example.com/hades.jpg",
+      "id": 7
+    },
+    {
+      "name": "Demeter",
+      "description": "Goddess of agriculture, fertility, and the harvest. Sister of Zeus, Poseidon, Hades, and Hestia.",
+      "category": "Goddess",
+      "attributes": {
+        "origin": "Daughter of Cronus and Rhea",
+        "symbols": [
+          "Wheat",
+          "Cornucopia"
+        ],
+        "abode": "Mount Olympus and the earth",
+        "powers": [
+          "Control over agriculture",
+          "Seasonal changes"
+        ],
+        "family": {
+          "parents": [
+            "Cronus",
+            "Rhea"
+          ],
+          "siblings": [
+            "Zeus",
+            "Poseidon",
+            "Hades",
+            "Hestia"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Search for Persephone",
+          "Gift of agriculture to humanity"
+        ]
+      },
+      "image": "https://example.com/demeter.jpg",
+      "id": 8
+    },
+    {
+      "name": "Aphrodite",
+      "description": "Goddess of love, beauty, and desire. Born from the sea foam.",
+      "category": "Goddess",
+      "attributes": {
+        "origin": "Born from the sea foam",
+        "symbols": [
+          "Dove",
+          "Rose"
+        ],
+        "abode": "Mount Olympus",
+        "powers": [
+          "Influence over love and desire",
+          "Charisma"
+        ],
+        "family": {
+          "parents": [
+            "Uranus",
+            "Sea (Uranus' genitals)"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "Hephaestus",
+            "Ares"
+          ]
+        },
+        "stories": [
+          "Judgment of Paris",
+          "Love affair with Ares"
+        ]
+      },
+      "image": "https://example.com/aphrodite.jpg",
+      "id": 9
+    },
+    {
+      "name": "Hera",
+      "description": "Goddess of marriage, women, and childbirth. Queen of the gods, sister and wife of Zeus.",
+      "category": "Goddess",
+      "attributes": {
+        "origin": "Daughter of Cronus and Rhea",
+        "symbols": [
+          "Peacock",
+          "Cow"
+        ],
+        "abode": "Mount Olympus",
+        "powers": [
+          "Marriage and family",
+          "Protection of married women"
+        ],
+        "family": {
+          "parents": [
+            "Cronus",
+            "Rhea"
+          ],
+          "siblings": [
+            "Zeus",
+            "Poseidon",
+            "Hades",
+            "Demeter",
+            "Hestia"
+          ],
+          "spouse": [
+            "Zeus"
+          ]
+        },
+        "stories": [
+          "Jealousy and revenge against Zeus' lovers",
+          "Involvement in the Trojan War"
+        ]
+      },
+      "image": "https://example.com/hera.jpg",
+      "id": 10
+    },
+    {
+      "name": "Dionysus",
+      "description": "God of wine, parties, and festivals. Patron of the arts.",
+      "category": "God",
+      "attributes": {
+        "origin": "Son of Zeus and Semele",
+        "symbols": [
+          "Wine cup (kantharos)",
+          "Grapevine"
+        ],
+        "abode": "Mount Olympus",
+        "powers": [
+          "Influence over wine and ecstasy",
+          "Theatre and drama"
+        ],
+        "family": {
+          "parents": [
+            "Zeus",
+            "Semele"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "Ariadne"
+          ]
+        },
+        "stories": [
+          "Journey to Hades and back",
+          "Transformation of sailors into dolphins"
+        ]
+      },
+      "image": "https://example.com/dionysus.jpg",
+      "id": 11
+    },
+    {
+      "name": "Ares",
+      "description": "God of war, violence, and bloodshed. Son of Zeus and Hera.",
+      "category": "God",
+      "attributes": {
+        "origin": "Son of Zeus and Hera",
+        "symbols": [
+          "Spear",
+          "Helmet"
+        ],
+        "abode": "Mount Olympus",
+        "powers": [
+          "Battle prowess",
+          "Conflict instigation"
+        ],
+        "family": {
+          "parents": [
+            "Zeus",
+            "Hera"
+          ],
+          "siblings": [
+            "Many, including Hephaestus, Hebe, and Eileithyia"
+          ],
+          "spouse": [
+            "Aphrodite"
+          ]
+        },
+        "stories": [
+          "War with the giants",
+          "Capture by the Aloadae"
+        ]
+      },
+      "image": "https://example.com/ares.jpg",
+      "id": 12
+    },
+    {
+      "name": "Hephaestus",
+      "description": "God of fire, metalworking, and craftsmanship. Son of Zeus and Hera.",
+      "category": "God",
+      "attributes": {
+        "origin": "Son of Zeus and Hera",
+        "symbols": [
+          "Hammer",
+          "Anvil"
+        ],
+        "abode": "Mount Olympus",
+        "powers": [
+          "Master blacksmith",
+          "Fire control"
+        ],
+        "family": {
+          "parents": [
+            "Zeus",
+            "Hera"
+          ],
+          "siblings": [
+            "Ares",
+            "Hebe",
+            "Eileithyia"
+          ],
+          "spouse": [
+            "Aphrodite"
+          ]
+        },
+        "stories": [
+          "Creation of Pandora",
+          "Trapping Ares and Aphrodite"
+        ]
+      },
+      "image": "https://example.com/hephaestus.jpg",
+      "id": 13
+    },
+    {
+      "name": "Hercules (Heracles)",
+      "description": "A divine hero and the greatest of the Greek warriors, known for his strength and numerous adventures.",
+      "category": "God",
+      "attributes": {
+        "origin": "Son of Zeus and Alcmene",
+        "symbols": [
+          "Club",
+          "Lion skin"
+        ],
+        "abode": "Elysium (after death)",
+        "powers": [
+          "Superhuman strength",
+          "Endurance",
+          "Courage"
+        ],
+        "family": {
+          "parents": [
+            "Zeus",
+            "Alcmene"
+          ],
+          "siblings": [
+            "Many mortal children of Zeus"
+          ],
+          "spouse": [
+            "Megara",
+            "Deianira"
+          ]
+        },
+        "stories": [
+          "Twelve Labors",
+          "Quest for immortality"
+        ]
+      },
+      "image": "https://example.com/hercules.jpg",
+      "id": 14
+    },
+    {
+      "name": "Persephone",
+      "description": "Goddess of springtime and queen of the underworld. Daughter of Demeter.",
+      "category": "Goddess",
+      "attributes": {
+        "origin": "Daughter of Demeter and Zeus (abducted by Hades)",
+        "symbols": [
+          "Pomegranate",
+          "Spring flowers"
+        ],
+        "abode": "Underworld (Hades) for part of the year, Olympus otherwise",
+        "powers": [
+          "Bringing forth vegetation",
+          "Queen of the dead"
+        ],
+        "family": {
+          "parents": [
+            "Zeus",
+            "Demeter"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "Hades"
+          ]
+        },
+        "stories": [
+          "Abduction myth",
+          "Role in the seasons"
+        ]
+      },
+      "image": "https://example.com/persephone.jpg",
+      "id": 15
+    },
+    {
+      "name": "Hermes",
+      "description": "God of trade, thieves, travelers, sports, and border crossings. Messenger of the gods.",
+      "category": "God",
+      "attributes": {
+        "origin": "Son of Zeus and Maia",
+        "symbols": [
+          "Caduceus",
+          "Winged sandals"
+        ],
+        "abode": "Mount Olympus",
+        "powers": [
+          "Speed and agility",
+          "Guide of souls to the underworld"
+        ],
+        "family": {
+          "parents": [
+            "Zeus",
+            "Maia"
+          ],
+          "siblings": [
+            "Dionysus",
+            "Persephone",
+            "Apollo",
+            "Artemis",
+            "Ares",
+            "Hephaestus",
+            "Hebe"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Theft of Apollo's cattle",
+          "Messenger of the gods"
+        ]
+      },
+      "image": "https://example.com/hermes.jpg",
+      "id": 16
+    },
+    {
+      "name": "Pan",
+      "description": "God of the wild, shepherds, flocks, and rustic music.",
+      "category": "God",
+      "attributes": {
+        "origin": "Son of Hermes and a nymph",
+        "symbols": [
+          "Goat",
+          "Pan flute"
+        ],
+        "abode": "Mount Olympus and rustic areas",
+        "powers": [
+          "Wilderness and nature",
+          "Shepherds' guardian"
+        ],
+        "family": {
+          "parents": [
+            "Hermes",
+            "Nymph (varies)"
+          ],
+          "siblings": [
+            "Many nature spirits"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Creation of the pan flute",
+          "Pursuit of nymphs"
+        ]
+      },
+      "image": "https://example.com/pan.jpg",
+      "id": 17
+    },
+    {
+      "name": "Nyx",
+      "description": "Goddess of the night and mother of many deities.",
+      "category": "Goddess",
+      "attributes": {
+        "origin": "Self-formed at creation",
+        "symbols": [
+          "Stars",
+          "Night sky"
+        ],
+        "abode": "The cosmos",
+        "powers": [
+          "Control over night and darkness",
+          "Motherhood of gods"
+        ],
+        "family": {
+          "parents": [
+            "None (self-formed)"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "Erebus"
+          ]
+        },
+        "stories": [
+          "Parentage of many deities",
+          "Role in nightly cycle"
+        ]
+      },
+      "image": "https://example.com/nyx.jpg",
+      "id": 18
+    },
+    {
+      "name": "Eros (Cupid)",
+      "description": "God of love, attraction, and affection. Son of Aphrodite.",
+      "category": "God",
+      "attributes": {
+        "origin": "Son of Aphrodite",
+        "symbols": [
+          "Bow and arrows",
+          "Hearts"
+        ],
+        "abode": "Mount Olympus",
+        "powers": [
+          "Influence over love and desire",
+          "Matchmaking"
+        ],
+        "family": {
+          "parents": [
+            "Aphrodite",
+            "Ares"
+          ],
+          "siblings": [
+            "Harmonia",
+            "Phobos",
+            "Deimos"
+          ],
+          "spouse": [
+            "Psyche"
+          ]
+        },
+        "stories": [
+          "Love affair with Psyche",
+          "Intervention in mortal affairs"
+        ]
+      },
+      "image": "https://example.com/eros.jpg",
+      "id": 19
+    },
+    {
+      "name": "Nemesis",
+      "description": "Goddess of retribution, vengeance, and divine justice.",
+      "category": "Goddess",
+      "attributes": {
+        "origin": "Daughter of Nyx (Night)",
+        "symbols": [
+          "Wheel",
+          "Sword"
+        ],
+        "abode": "Unknown, often associated with the underworld",
+        "powers": [
+          "Enforcement of moral order",
+          "Punishment of hubris"
+        ],
+        "family": {
+          "parents": [
+            "Nyx"
+          ],
+          "siblings": [
+            "Hypnos",
+            "Thanatos",
+            "Hemera",
+            "Eris"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Punishment of the arrogant",
+          "Role in mythological justice"
+        ]
+      },
+      "image": "https://example.com/nemesis.jpg",
+      "id": 20
+    },
+    {
+      "name": "Aeolus",
+      "description": "God of the winds.",
+      "category": "God",
+      "attributes": {
+        "origin": "Son of Hippotes",
+        "symbols": [
+          "Wind",
+          "Jar"
+        ],
+        "abode": "Floating island of Aeolia",
+        "powers": [
+          "Control over the winds"
+        ],
+        "family": {
+          "parents": [
+            "Hippotes"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Odyssey, giving winds to Odysseus"
+        ]
+      },
+      "image": "https://example.com/aeolus.jpg",
+      "id": 22
+    },
+    {
+      "name": "Boreas",
+      "description": "God of the north wind and winter.",
+      "category": "God",
+      "attributes": {
+        "origin": "Son of Astraeus and Eos",
+        "symbols": [
+          "North wind",
+          "Cold"
+        ],
+        "abode": "Thrace",
+        "powers": [
+          "Bringing winter"
+        ],
+        "family": {
+          "parents": [
+            "Astraeus",
+            "Eos"
+          ],
+          "siblings": [
+            "Notus",
+            "Zephyrus",
+            "Eurus"
+          ],
+          "spouse": [
+            "Oreithyia"
+          ]
+        },
+        "stories": [
+          "Abduction of Oreithyia"
+        ]
+      },
+      "image": "https://example.com/boreas.jpg",
+      "id": 23
+    },
+    {
+      "name": "Zephyrus",
+      "description": "God of the west wind.",
+      "category": "God",
+      "attributes": {
+        "origin": "Son of Astraeus and Eos",
+        "symbols": [
+          "West wind",
+          "Gentle breeze"
+        ],
+        "abode": "Mount Olympus",
+        "powers": [
+          "Bringing gentle breezes"
+        ],
+        "family": {
+          "parents": [
+            "Astraeus",
+            "Eos"
+          ],
+          "siblings": [
+            "Notus",
+            "Boreas",
+            "Eurus"
+          ],
+          "spouse": [
+            "Chloris"
+          ]
+        },
+        "stories": [
+          "Various myths about gentle breezes"
+        ]
+      },
+      "image": "https://example.com/zephyrus.jpg",
+      "id": 24
+    },
+    {
+      "name": "Eurus",
+      "description": "God of the east wind.",
+      "category": "God",
+      "attributes": {
+        "origin": "Son of Astraeus and Eos",
+        "symbols": [
+          "East wind",
+          "Storms"
+        ],
+        "abode": "Mount Olympus",
+        "powers": [
+          "Bringing storms"
+        ],
+        "family": {
+          "parents": [
+            "Astraeus",
+            "Eos"
+          ],
+          "siblings": [
+            "Notus",
+            "Boreas",
+            "Zephyrus"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Various myths about storms"
+        ]
+      },
+      "image": "https://example.com/eurus.jpg",
+      "id": 25
+    },
+    {
+      "name": "Notus",
+      "description": "God of the south wind.",
+      "category": "God",
+      "attributes": {
+        "origin": "Son of Astraeus and Eos",
+        "symbols": [
+          "South wind",
+          "Hot wind"
+        ],
+        "abode": "Mount Olympus",
+        "powers": [
+          "Bringing hot winds"
+        ],
+        "family": {
+          "parents": [
+            "Astraeus",
+            "Eos"
+          ],
+          "siblings": [
+            "Boreas",
+            "Zephyrus",
+            "Eurus"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Various myths about hot winds"
+        ]
+      },
+      "image": "https://example.com/notus.jpg",
+      "id": 26
+    },
+    {
+      "name": "Anemoi",
+      "description": "Collective term for the gods of the winds.",
+      "category": "Gods",
+      "attributes": {
+        "origin": "Children of Astraeus and Eos",
+        "symbols": [
+          "Winds"
+        ],
+        "abode": "Mount Olympus",
+        "powers": [
+          "Control over winds"
+        ],
+        "family": {
+          "parents": [
+            "Astraeus",
+            "Eos"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Various myths about the winds"
+        ]
+      },
+      "image": "https://example.com/anemoi.jpg",
+      "id": 27
+    },
+    {
+      "name": "Eos",
+      "description": "Goddess of the dawn who opens the gates of heaven for the sun each day.",
+      "category": "Goddess",
+      "attributes": {
+        "origin": "Daughter of Hyperion and Theia",
+        "symbols": [
+          "Dew",
+          "Rosy fingers"
+        ],
+        "abode": "Sky",
+        "powers": [
+          "Bringing dawn",
+          "Morning dew"
+        ],
+        "family": {
+          "parents": [
+            "Hyperion",
+            "Theia"
+          ],
+          "siblings": [
+            "Helios",
+            "Selene"
+          ],
+          "spouse": [
+            "Tithonus"
+          ]
+        },
+        "stories": [
+          "Love for the mortal Tithonus"
+        ]
+      },
+      "image": "https://example.com/eos.jpg",
+      "id": 29
+    },
+    {
+      "name": "Iris",
+      "description": "Goddess of the rainbow and messenger of the gods.",
+      "category": "Goddess",
+      "attributes": {
+        "origin": "Daughter of Thaumas and Electra",
+        "symbols": [
+          "Rainbow",
+          "Caduceus"
+        ],
+        "abode": "Sky",
+        "powers": [
+          "Communication",
+          "Speed"
+        ],
+        "family": {
+          "parents": [
+            "Thaumas",
+            "Electra"
+          ],
+          "siblings": [
+            "Harpies"
+          ],
+          "spouse": [
+            "Zephyrus"
+          ]
+        },
+        "stories": [
+          "Carrying messages for the gods"
+        ]
+      },
+      "image": "https://example.com/iris.jpg",
+      "id": 30
+    },
+    {
+      "name": "Tyche",
+      "description": "Goddess of fortune and prosperity.",
+      "category": "Goddess",
+      "attributes": {
+        "origin": "Daughter of Oceanus and Tethys",
+        "symbols": [
+          "Cornucopia",
+          "Wheel"
+        ],
+        "abode": "Mount Olympus",
+        "powers": [
+          "Fortune",
+          "Prosperity"
+        ],
+        "family": {
+          "parents": [
+            "Oceanus",
+            "Tethys"
+          ],
+          "siblings": [
+            "Nymphs",
+            "Potamoi"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Granting fortunes to mortals"
+        ]
+      },
+      "image": "https://example.com/tyche.jpg",
+      "id": 31
+    },
+    {
+      "name": "Nike",
+      "description": "Goddess of victory. Daughter of Pallas and Styx.",
+      "category": "Goddess",
+      "attributes": {
+        "origin": "Daughter of Pallas and Styx",
+        "symbols": [
+          "Wings",
+          "Laurel wreath"
+        ],
+        "abode": "Mount Olympus",
+        "powers": [
+          "Bringing victory",
+          "Speed"
+        ],
+        "family": {
+          "parents": [
+            "Pallas",
+            "Styx"
+          ],
+          "siblings": [
+            "Kratos",
+            "Bia",
+            "Zelus"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Role in Titanomachy"
+        ]
+      },
+      "image": "https://example.com/nike.jpg",
+      "id": 32
+    },
+    {
+      "name": "Hebe",
+      "description": "Goddess of youth and cupbearer to the gods.",
+      "category": "Goddess",
+      "attributes": {
+        "origin": "Daughter of Zeus and Hera",
+        "symbols": [
+          "Cup",
+          "Eagle"
+        ],
+        "abode": "Mount Olympus",
+        "powers": [
+          "Youthfulness",
+          "Cupbearing"
+        ],
+        "family": {
+          "parents": [
+            "Zeus",
+            "Hera"
+          ],
+          "siblings": [
+            "Ares",
+            "Hephaestus",
+            "Eileithyia"
+          ],
+          "spouse": [
+            "Heracles"
+          ]
+        },
+        "stories": [
+          "Marriage to Heracles"
+        ]
+      },
+      "image": "https://example.com/hebe.jpg",
+      "id": 33
+    },
+    {
+      "name": "Asclepius",
+      "description": "God of medicine and healing.",
+      "category": "God",
+      "attributes": {
+        "origin": "Son of Apollo and Coronis",
+        "symbols": [
+          "Serpent-entwined staff"
+        ],
+        "abode": "Mount Olympus",
+        "powers": [
+          "Healing",
+          "Medicine"
+        ],
+        "family": {
+          "parents": [
+            "Apollo",
+            "Coronis"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "Epione"
+          ]
+        },
+        "stories": [
+          "Various myths of healing and resurrection"
+        ]
+      },
+      "image": "https://example.com/asclepius.jpg",
+      "id": 34
+    },
+    {
+      "name": "Hypnos",
+      "description": "God of sleep.",
+      "category": "God",
+      "attributes": {
+        "origin": "Son of Nyx and Erebus",
+        "symbols": [
+          "Poppy",
+          "River Lethe"
+        ],
+        "abode": "Underworld",
+        "powers": [
+          "Inducing sleep",
+          "Dreams"
+        ],
+        "family": {
+          "parents": [
+            "Nyx",
+            "Erebus"
+          ],
+          "siblings": [
+            "Thanatos",
+            "Nemesis"
+          ],
+          "spouse": [
+            "Pasithea"
+          ]
+        },
+        "stories": [
+          "Putting Zeus to sleep"
+        ]
+      },
+      "image": "https://example.com/hypnos.jpg",
+      "id": 35
+    },
+    {
+      "name": "Erebus",
+      "description": "God of darkness and shadow. Brother and consort of Nyx.",
+      "category": "God",
+      "attributes": {
+        "origin": "Self-formed at the dawn of creation",
+        "symbols": [
+          "Shadow",
+          "Darkness"
+        ],
+        "abode": "Underworld",
+        "powers": [
+          "Control over darkness",
+          "Shadows"
+        ],
+        "family": {
+          "parents": [
+            "None"
+          ],
+          "siblings": [
+            "Nyx"
+          ],
+          "spouse": [
+            "Nyx"
+          ]
+        },
+        "stories": [
+          "Creation of shadows"
+        ]
+      },
+      "image": "https://example.com/erebus.jpg",
+      "id": 36
+    },
+    {
+      "name": "Gaia",
+      "description": "Primordial goddess of the earth. Mother of the Titans and many other beings.",
+      "category": "Goddess",
+      "attributes": {
+        "origin": "Self-formed at the beginning of time",
+        "symbols": [
+          "Earth",
+          "Trees"
+        ],
+        "abode": "Earth",
+        "powers": [
+          "Creation of life",
+          "Earth"
+        ],
+        "family": {
+          "parents": [
+            "None"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "Uranus",
+            "Pontus"
+          ]
+        },
+        "stories": [
+          "Birth of the Titans",
+          "Revolt against Uranus"
+        ]
+      },
+      "image": "https://example.com/gaia.jpg",
+      "id": 37
+    },
+    {
+      "name": "Uranus",
+      "description": "Primordial god of the sky. Father of the Titans.",
+      "category": "God",
+      "attributes": {
+        "origin": "Self-formed at the beginning of time",
+        "symbols": [
+          "Sky",
+          "Stars"
+        ],
+        "abode": "Sky",
+        "powers": [
+          "Sky",
+          "Fatherhood of the Titans"
+        ],
+        "family": {
+          "parents": [
+            "None"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "Gaia"
+          ]
+        },
+        "stories": [
+          "Birth of the Titans",
+          "Castration by Cronus"
+        ]
+      },
+      "image": "https://example.com/uranus.jpg",
+      "id": 38
+    },
+    {
+      "name": "Thanatos",
+      "description": "God of death.",
+      "category": "God",
+      "attributes": {
+        "origin": "Son of Nyx and Erebus",
+        "symbols": [
+          "Butterfly",
+          "Sword"
+        ],
+        "abode": "Underworld",
+        "powers": [
+          "Peaceful death",
+          "Guide to the underworld"
+        ],
+        "family": {
+          "parents": [
+            "Nyx",
+            "Erebus"
+          ],
+          "siblings": [
+            "Hypnos",
+            "Nemesis"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Capturing the souls of the dead"
+        ]
+      },
+      "image": "https://example.com/thanatos.jpg",
+      "id": 39
+    },
+    {
+      "name": "Hecate",
+      "description": "Goddess of magic, witchcraft, and ghosts.",
+      "category": "Goddess",
+      "attributes": {
+        "origin": "Daughter of Perses and Asteria",
+        "symbols": [
+          "Torch",
+          "Keys"
+        ],
+        "abode": "Underworld",
+        "powers": [
+          "Magic",
+          "Necromancy"
+        ],
+        "family": {
+          "parents": [
+            "Perses",
+            "Asteria"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Helping Demeter find Persephone"
+        ]
+      },
+      "image": "https://example.com/hecate.jpg",
+      "id": 40
+    },
+    {
+      "name": "Janus",
+      "description": "Roman god of beginnings, gates, transitions, time, duality, doorways, passages, and endings.",
+      "category": "God",
+      "attributes": {
+        "origin": "Self-formed",
+        "symbols": [
+          "Two-faced head",
+          "Doors"
+        ],
+        "abode": "Everywhere",
+        "powers": [
+          "Transitions",
+          "Time"
+        ],
+        "family": {
+          "parents": [
+            "None"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Guardian of gateways and transitions"
+        ]
+      },
+      "image": "https://example.com/janus.jpg",
+      "id": 41
+    },
+    {
+      "name": "Morpheus",
+      "description": "God of dreams.",
+      "category": "God",
+      "attributes": {
+        "origin": "Son of Hypnos",
+        "symbols": [
+          "Wings",
+          "Poppy"
+        ],
+        "abode": "Dream world",
+        "powers": [
+          "Shaping dreams",
+          "Sleep"
+        ],
+        "family": {
+          "parents": [
+            "Hypnos"
+          ],
+          "siblings": [
+            "Phobetor",
+            "Phantasos"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Sending dreams to mortals"
+        ]
+      },
+      "image": "https://example.com/morpheus.jpg",
+      "id": 42
+    }
+  ],
+  "Titans": [
+    {
+      "name": "Cronus",
+      "description": "Titan ruler of the universe until overthrown by his son, Zeus.",
+      "category": "Titan",
+      "attributes": {
+        "origin": "Son of Uranus and Gaia",
+        "symbols": [
+          "Sickle",
+          "Hourglass"
+        ],
+        "abode": "Before Zeus' reign: Mount Othrys, then Tartarus",
+        "powers": [
+          "Rulership of the universe",
+          "Fear of his children's power"
+        ],
+        "family": {
+          "parents": [
+            "Uranus",
+            "Gaia"
+          ],
+          "siblings": [
+            "Titans"
+          ],
+          "spouse": [
+            "Rhea"
+          ]
+        },
+        "stories": [
+          "Overthrow by Zeus",
+          "Imprisonment in Tartarus"
+        ]
+      },
+      "image": "https://example.com/cronus.jpg",
+      "id": 1
+    },
+    {
+      "name": "Atlas",
+      "description": "Titan condemned to hold up the sky for eternity.",
+      "category": "Titan",
+      "attributes": {
+        "origin": "Son of the Titan Iapetus",
+        "symbols": [
+          "Globe",
+          "Celestial sphere"
+        ],
+        "abode": "Mount Atlas (Atlas Mountains)",
+        "powers": [
+          "Endurance",
+          "Cosmic burden"
+        ],
+        "family": {
+          "parents": [
+            "Iapetus",
+            "Asia"
+          ],
+          "siblings": [
+            "Prometheus",
+            "Epimetheus",
+            "Menoetius"
+          ],
+          "spouse": [
+            "Pleione"
+          ]
+        },
+        "stories": [
+          "Punishment by Zeus",
+          "Association with the heavens"
+        ]
+      },
+      "image": "https://example.com/atlas.jpg",
+      "id": 2
+    },
+    {
+      "name": "Hecate",
+      "description": "Goddess of magic, witchcraft, and crossroads.",
+      "category": "Goddess",
+      "attributes": {
+        "origin": "Titaness associated with the moon",
+        "symbols": [
+          "Torch",
+          "Dagger"
+        ],
+        "abode": "Crossroads, caves, and haunted places",
+        "powers": [
+          "Magic and sorcery",
+          "Guide of souls"
+        ],
+        "family": {
+          "parents": [
+            "Perses",
+            "Asteria"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Guardian of entrances",
+          "Helper of Persephone"
+        ]
+      },
+      "image": "https://example.com/hecate.jpg",
+      "id": 3
+    },
+    {
+      "name": "Oceanus",
+      "description": "Titan god of the ocean and rivers that encircle the world.",
+      "category": "Titan",
+      "attributes": {
+        "origin": "Son of Uranus and Gaia",
+        "symbols": [
+          "River",
+          "Ocean waves"
+        ],
+        "abode": "Encircling ocean and rivers",
+        "powers": [
+          "Control over water currents",
+          "River divinity"
+        ],
+        "family": {
+          "parents": [
+            "Uranus",
+            "Gaia"
+          ],
+          "siblings": [
+            "Titans"
+          ],
+          "spouse": [
+            "Tethys"
+          ]
+        },
+        "stories": [
+          "Support during Titanomachy",
+          "Association with river gods"
+        ]
+      },
+      "image": "https://example.com/oceanus.jpg",
+      "id": 4
+    },
+    {
+      "name": "Prometheus",
+      "description": "Titan who stole fire from Mount Olympus and gave it to humanity. Creator of mankind.",
+      "category": "Titan",
+      "attributes": {
+        "origin": "Son of the Titan Iapetus",
+        "symbols": [
+          "Fire",
+          "Torch"
+        ],
+        "abode": "Mount Olympus (before punishment)",
+        "powers": [
+          "Creation of humanity",
+          "Trickster intelligence"
+        ],
+        "family": {
+          "parents": [
+            "Iapetus",
+            "Clymene"
+          ],
+          "siblings": [
+            "Atlas",
+            "Epimetheus",
+            "Menoetius"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Punishment by Zeus",
+          "Gift of fire to mankind"
+        ]
+      },
+      "image": "https://example.com/prometheus.jpg",
+      "id": 5
+    },
+    {
+      "name": "Hyperion",
+      "description": "Titan of heavenly light, associated with the sun.",
+      "category": "Titan",
+      "attributes": {
+        "origin": "Son of Uranus and Gaia",
+        "symbols": [
+          "Sun",
+          "Golden chariot"
+        ],
+        "abode": "Elysium",
+        "powers": [
+          "Control over light",
+          "Solar energy"
+        ],
+        "family": {
+          "parents": [
+            "Uranus",
+            "Gaia"
+          ],
+          "siblings": [
+            "Titans"
+          ],
+          "spouse": [
+            "Theia"
+          ]
+        },
+        "stories": [
+          "Father of Helios, Selene, and Eos",
+          "Association with the dawn"
+        ]
+      },
+      "image": "https://example.com/hyperion.jpg",
+      "id": 6
+    },
+    {
+      "name": "Theia",
+      "description": "Titaness associated with sight and heavenly light.",
+      "category": "Titaness",
+      "attributes": {
+        "origin": "Daughter of Uranus and Gaia",
+        "symbols": [
+          "Shining halo",
+          "Ethereal veil"
+        ],
+        "abode": "Elysium",
+        "powers": [
+          "Divine radiance",
+          "Enhanced perception"
+        ],
+        "family": {
+          "parents": [
+            "Uranus",
+            "Gaia"
+          ],
+          "siblings": [
+            "Titans"
+          ],
+          "spouse": [
+            "Hyperion"
+          ]
+        },
+        "stories": [
+          "Mother of Helios, Selene, and Eos",
+          "Association with foresight"
+        ]
+      },
+      "image": "https://example.com/theia.jpg",
+      "id": 7
+    },
+    {
+      "name": "Crius",
+      "description": "Titan of constellations and heavenly constellations.",
+      "category": "Titan",
+      "attributes": {
+        "origin": "Son of Uranus and Gaia",
+        "symbols": [
+          "Star map",
+          "Celestial globe"
+        ],
+        "abode": "Elysium",
+        "powers": [
+          "Mastery of celestial patterns",
+          "Navigational guidance"
+        ],
+        "family": {
+          "parents": [
+            "Uranus",
+            "Gaia"
+          ],
+          "siblings": [
+            "Titans"
+          ],
+          "spouse": [
+            "Eurybia"
+          ]
+        },
+        "stories": [
+          "Association with heavenly navigation",
+          "Role in cosmic order"
+        ]
+      },
+      "image": "https://example.com/crius.jpg",
+      "id": 8
+    },
+    {
+      "name": "Mnemosyne",
+      "description": "Titaness of memory and mother of the Muses.",
+      "category": "Titaness",
+      "attributes": {
+        "origin": "Daughter of Uranus and Gaia",
+        "symbols": [
+          "Memory scroll",
+          "Memory pool"
+        ],
+        "abode": "Elysium",
+        "powers": [
+          "Recollection enhancement",
+          "Inspiration of artists"
+        ],
+        "family": {
+          "parents": [
+            "Uranus",
+            "Gaia"
+          ],
+          "siblings": [
+            "Titans"
+          ],
+          "spouse": [
+            "Zeus"
+          ]
+        },
+        "stories": [
+          "Mother of the Muses",
+          "Guardian of historical records"
+        ]
+      },
+      "image": "https://example.com/mnemosyne.jpg",
+      "id": 9
+    },
+    {
+      "name": "Phoebe",
+      "description": "Titaness associated with prophecy and the moon.",
+      "category": "Titaness",
+      "attributes": {
+        "origin": "Daughter of Uranus and Gaia",
+        "symbols": [
+          "Oracle staff",
+          "Moon phases"
+        ],
+        "abode": "Elysium",
+        "powers": [
+          "Oracle foresight",
+          "Lunar influence"
+        ],
+        "family": {
+          "parents": [
+            "Uranus",
+            "Gaia"
+          ],
+          "siblings": [
+            "Titans"
+          ],
+          "spouse": [
+            "Coeus"
+          ]
+        },
+        "stories": [
+          "Prophetess of divine will",
+          "Moonlight enchantment"
+        ]
+      },
+      "image": "https://example.com/phoebe.jpg",
+      "id": 10
+    },
+    {
+      "name": "Coeus",
+      "description": "Titan of intellect and questioning.",
+      "category": "Titan",
+      "attributes": {
+        "origin": "Son of Uranus and Gaia",
+        "symbols": [
+          "Scales",
+          "Book of knowledge"
+        ],
+        "abode": "Elysium",
+        "powers": [
+          "Intellectual insight",
+          "Philosophical inquiry"
+        ],
+        "family": {
+          "parents": [
+            "Uranus",
+            "Gaia"
+          ],
+          "siblings": [
+            "Titans"
+          ],
+          "spouse": [
+            "Phoebe"
+          ]
+        },
+        "stories": [
+          "Inquirer of cosmic mysteries",
+          "Seeker of divine truths"
+        ]
+      },
+      "image": "https://example.com/coeus.jpg",
+      "id": 11
+    },
+    {
+      "name": "Themis",
+      "description": "Titaness of divine law, order, and justice.",
+      "category": "Titaness",
+      "attributes": {
+        "origin": "Daughter of Uranus and Gaia",
+        "symbols": [
+          "Scales of justice",
+          "Law book"
+        ],
+        "abode": "Elysium",
+        "powers": [
+          "Divine justice",
+          "Prophecy"
+        ],
+        "family": {
+          "parents": [
+            "Uranus",
+            "Gaia"
+          ],
+          "siblings": [
+            "Titans"
+          ],
+          "spouse": [
+            "Zeus"
+          ]
+        },
+        "stories": [
+          "Enforcer of cosmic order",
+          "Mother of the Horae and Moirai"
+        ]
+      },
+      "image": "https://example.com/themis.jpg",
+      "id": 12
+    },
+    {
+      "name": "Tethys",
+      "description": "Titaness of fresh water and motherhood.",
+      "category": "Titaness",
+      "attributes": {
+        "origin": "Daughter of Uranus and Gaia",
+        "symbols": [
+          "Spring",
+          "Nurturing bowl"
+        ],
+        "abode": "Elysium",
+        "powers": [
+          "Control over fresh waters",
+          "Maternal wisdom"
+        ],
+        "family": {
+          "parents": [
+            "Uranus",
+            "Gaia"
+          ],
+          "siblings": [
+            "Titans"
+          ],
+          "spouse": [
+            "Oceanus"
+          ]
+        },
+        "stories": [
+          "Nurturer of rivers and streams",
+          "Protector of children"
+        ]
+      },
+      "image": "https://example.com/tethys.jpg",
+      "id": 13
+    },
+    {
+      "name": "Thea",
+      "description": "Titaness associated with sight and divine radiance.",
+      "category": "Titaness",
+      "attributes": {
+        "origin": "Daughter of Uranus and Gaia",
+        "symbols": [
+          "Bright halo",
+          "Shimmering aura"
+        ],
+        "abode": "Elysium",
+        "powers": [
+          "Illumination",
+          "Visionary guidance"
+        ],
+        "family": {
+          "parents": [
+            "Uranus",
+            "Gaia"
+          ],
+          "siblings": [
+            "Titans"
+          ],
+          "spouse": [
+            "Hyperion"
+          ]
+        },
+        "stories": [
+          "Mother of Helios, Selene, and Eos",
+          "Inspirer of seers"
+        ]
+      },
+      "image": "https://example.com/thea.jpg",
+      "id": 14
+    },
+    {
+      "name": "Rhea",
+      "description": "Titaness associated with fertility and motherhood.",
+      "category": "Titaness",
+      "attributes": {
+        "origin": "Daughter of Uranus and Gaia",
+        "symbols": [
+          "Cornucopia",
+          "Fertile soil"
+        ],
+        "abode": "Elysium",
+        "powers": [
+          "Fertility blessing",
+          "Maternal protection"
+        ],
+        "family": {
+          "parents": [
+            "Uranus",
+            "Gaia"
+          ],
+          "siblings": [
+            "Titans"
+          ],
+          "spouse": [
+            "Cronus"
+          ]
+        },
+        "stories": [
+          "Mother of Olympian gods",
+          "Protector of children"
+        ]
+      },
+      "image": "https://example.com/rhea.jpg",
+      "id": 15
+    },
+    {
+      "name": "Iapetus",
+      "description": "Titan associated with mortality and human life-span.",
+      "category": "Titan",
+      "attributes": {
+        "origin": "Son of Uranus and Gaia",
+        "symbols": [
+          "Chain",
+          "Human figurine"
+        ],
+        "abode": "Before Zeus' reign: Mount Othrys",
+        "powers": [
+          "Mortality bestowment",
+          "Endurance"
+        ],
+        "family": {
+          "parents": [
+            "Uranus",
+            "Gaia"
+          ],
+          "siblings": [
+            "Titans"
+          ],
+          "spouse": [
+            "Asia"
+          ]
+        },
+        "stories": [
+          "Father of Prometheus, Epimetheus, Menoetius, and Atlas",
+          "Role in human creation"
+        ]
+      },
+      "image": "https://example.com/iapetus.jpg",
+      "id": 16
+    },
+    {
+      "name": "Clymene",
+      "description": "Titaness associated with fame and renown.",
+      "category": "Titaness",
+      "attributes": {
+        "origin": "Daughter of Oceanus and Tethys",
+        "symbols": [
+          "Laurel wreath",
+          "Celebratory torch"
+        ],
+        "abode": "Mount Othrys",
+        "powers": [
+          "Prominence bestowment",
+          "Inspiration"
+        ],
+        "family": {
+          "parents": [
+            "Oceanus",
+            "Tethys"
+          ],
+          "siblings": [
+            "Oceanids"
+          ],
+          "spouse": [
+            "Iapetus"
+          ]
+        },
+        "stories": [
+          "Mother of Atlas, Prometheus, Epimetheus, and Menoetius",
+          "Role in Titanomachy"
+        ]
+      },
+      "image": "https://example.com/clymene.jpg",
+      "id": 17
+    },
+    {
+      "name": "Epimetheus",
+      "description": "Titan associated with afterthought and hindsight.",
+      "category": "Titan",
+      "attributes": {
+        "origin": "Son of Iapetus and Clymene",
+        "symbols": [
+          "Closed box",
+          "Broken chains"
+        ],
+        "abode": "Mount Othrys",
+        "powers": [
+          "Hindsight wisdom",
+          "Companionship"
+        ],
+        "family": {
+          "parents": [
+            "Iapetus",
+            "Clymene"
+          ],
+          "siblings": [
+            "Atlas",
+            "Prometheus",
+            "Menoetius"
+          ],
+          "spouse": [
+            "Pandora"
+          ]
+        },
+        "stories": [
+          "Role in creation of humanity",
+          "Guardian of Pandora's Box"
+        ]
+      },
+      "image": "https://example.com/epimetheus.jpg",
+      "id": 18
+    },
+    {
+      "name": "Menoetius",
+      "description": "Titan associated with rash action and reckless anger.",
+      "category": "Titan",
+      "attributes": {
+        "origin": "Son of Iapetus and Clymene",
+        "symbols": [
+          "Lightning bolt",
+          "Tempest"
+        ],
+        "abode": "Mount Othrys",
+        "powers": [
+          "Destruction prowess",
+          "Combat prowess"
+        ],
+        "family": {
+          "parents": [
+            "Iapetus",
+            "Clymene"
+          ],
+          "siblings": [
+            "Atlas",
+            "Prometheus",
+            "Epimetheus"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Role in Titanomachy",
+          "Punishment by Zeus"
+        ]
+      },
+      "image": "https://example.com/menoetius.jpg",
+      "id": 19
+    },
+    {
+      "name": "Perses",
+      "description": "Titan associated with destruction and war.",
+      "category": "Titan",
+      "attributes": {
+        "origin": "Son of Crius and Eurybia",
+        "symbols": [
+          "Flaming sword",
+          "War helmet"
+        ],
+        "abode": "Mount Othrys",
+        "powers": [
+          "Battle prowess",
+          "Destruction"
+        ],
+        "family": {
+          "parents": [
+            "Crius",
+            "Eurybia"
+          ],
+          "siblings": [
+            "Pallas",
+            "Astraeus"
+          ],
+          "spouse": [
+            "Asteria"
+          ]
+        },
+        "stories": [
+          "Role in Titanomachy",
+          "Defeat and imprisonment"
+        ]
+      },
+      "image": "https://example.com/perses.jpg",
+      "id": 20
+    },
+    {
+      "name": "Pallas",
+      "description": "Titan associated with war strategy and foresight.",
+      "category": "Titan",
+      "attributes": {
+        "origin": "Son of Crius and Eurybia",
+        "symbols": [
+          "Strategist's map",
+          "Battle flag"
+        ],
+        "abode": "Mount Othrys",
+        "powers": [
+          "Strategic wisdom",
+          "War planning"
+        ],
+        "family": {
+          "parents": [
+            "Crius",
+            "Eurybia"
+          ],
+          "siblings": [
+            "Perses",
+            "Astraeus"
+          ],
+          "spouse": [
+            "Styx"
+          ]
+        },
+        "stories": [
+          "Role in Titanomachy",
+          "Guardian of the Underworld entrance"
+        ]
+      },
+      "image": "https://example.com/pallas.jpg",
+      "id": 21
+    },
+    {
+      "name": "Astraeus",
+      "description": "Titan associated with stars and nocturnal prophecy.",
+      "category": "Titan",
+      "attributes": {
+        "origin": "Son of Crius and Eurybia",
+        "symbols": [
+          "Stellar globe",
+          "Nocturnal veil"
+        ],
+        "abode": "Mount Othrys",
+        "powers": [
+          "Star manipulation",
+          "Nighttime foresight"
+        ],
+        "family": {
+          "parents": [
+            "Crius",
+            "Eurybia"
+          ],
+          "siblings": [
+            "Perses",
+            "Pallas"
+          ],
+          "spouse": [
+            "Eos"
+          ]
+        },
+        "stories": [
+          "Role in Titanomachy",
+          "Father of the Anemoi (Wind gods)"
+        ]
+      },
+      "image": "https://example.com/astraeus.jpg",
+      "id": 22
+    },
+    {
+      "name": "Eos",
+      "description": "Titaness associated with dawn and rosy-fingered morning.",
+      "category": "Titaness",
+      "attributes": {
+        "origin": "Daughter of Hyperion and Theia",
+        "symbols": [
+          "Rosy veil",
+          "Morning dew"
+        ],
+        "abode": "Mount Othrys",
+        "powers": [
+          "Dawn awakening",
+          "Early light"
+        ],
+        "family": {
+          "parents": [
+            "Hyperion",
+            "Theia"
+          ],
+          "siblings": [
+            "Helios",
+            "Selene"
+          ],
+          "spouse": [
+            "Astraeus"
+          ]
+        },
+        "stories": [
+          "Goddess of dawn",
+          "Lover of Tithonus"
+        ]
+      },
+      "image": "https://example.com/eos.jpg",
+      "id": 23
+    },
+    {
+      "name": "Lelantos",
+      "description": "Titan associated with air and the hunter's skill of stalking prey.",
+      "category": "Titan",
+      "attributes": {
+        "origin": "Son of Coeus and Phoebe",
+        "symbols": [
+          "Bow and arrow",
+          "Hunting cloak"
+        ],
+        "abode": "Forests and hunting grounds",
+        "powers": [
+          "Stealth",
+          "Air manipulation"
+        ],
+        "family": {
+          "parents": [
+            "Coeus",
+            "Phoebe"
+          ],
+          "siblings": [
+            "Leto",
+            "Asteria"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Master of the art of stalking prey",
+          "Patron of hunters"
+        ]
+      },
+      "image": "https://example.com/lelantos.jpg",
+      "id": 24
+    },
+    {
+      "name": "Metis",
+      "description": "Titaness of wisdom, prudence, and deep thought.",
+      "category": "Titaness",
+      "attributes": {
+        "origin": "Daughter of Oceanus and Tethys",
+        "symbols": [
+          "Owl",
+          "Wisdom scroll"
+        ],
+        "abode": "Mount Olympus (before being swallowed by Zeus)",
+        "powers": [
+          "Wisdom",
+          "Cunning intelligence"
+        ],
+        "family": {
+          "parents": [
+            "Oceanus",
+            "Tethys"
+          ],
+          "siblings": [
+            "Oceanids"
+          ],
+          "spouse": [
+            "Zeus"
+          ]
+        },
+        "stories": [
+          "Mother of Athena",
+          "Swallowed by Zeus"
+        ]
+      },
+      "image": "https://example.com/metis.jpg",
+      "id": 25
+    },
+    {
+      "name": "Styx",
+      "description": "Titaness of the river Styx and personification of hatred.",
+      "category": "Titaness",
+      "attributes": {
+        "origin": "Daughter of Oceanus and Tethys",
+        "symbols": [
+          "Black river",
+          "Adamantine gates"
+        ],
+        "abode": "Underworld",
+        "powers": [
+          "Binding oaths",
+          "Passage to the underworld"
+        ],
+        "family": {
+          "parents": [
+            "Oceanus",
+            "Tethys"
+          ],
+          "siblings": [
+            "Oceanids"
+          ],
+          "spouse": [
+            "Pallas"
+          ]
+        },
+        "stories": [
+          "Goddess of the river Styx",
+          "Protector of solemn oaths"
+        ]
+      },
+      "image": "https://example.com/styx.jpg",
+      "id": 26
+    },
+    {
+      "name": "Helios",
+      "description": "Titan god of the sun.",
+      "category": "Titan",
+      "attributes": {
+        "origin": "Son of Hyperion and Theia",
+        "symbols": [
+          "Chariot",
+          "Solar disc"
+        ],
+        "abode": "Palace in the eastern edge of the world",
+        "powers": [
+          "Solar radiance",
+          "All-seeing eye"
+        ],
+        "family": {
+          "parents": [
+            "Hyperion",
+            "Theia"
+          ],
+          "siblings": [
+            "Selene",
+            "Eos"
+          ],
+          "spouse": [
+            "Rhode"
+          ]
+        },
+        "stories": [
+          "Daily journey across the sky",
+          "Cattle of the Sun incident"
+        ]
+      },
+      "image": "https://example.com/helios.jpg",
+      "id": 27
+    },
+    {
+      "name": "Selene",
+      "description": "Titaness of the moon.",
+      "category": "Titaness",
+      "attributes": {
+        "origin": "Daughter of Hyperion and Theia",
+        "symbols": [
+          "Crescent moon",
+          "Torch"
+        ],
+        "abode": "Sky",
+        "powers": [
+          "Lunar cycles",
+          "Night illumination"
+        ],
+        "family": {
+          "parents": [
+            "Hyperion",
+            "Theia"
+          ],
+          "siblings": [
+            "Helios",
+            "Eos"
+          ],
+          "spouse": [
+            "Endymion"
+          ]
+        },
+        "stories": [
+          "Nightly journey across the sky",
+          "Love for Endymion"
+        ]
+      },
+      "image": "https://example.com/selene.jpg",
+      "id": 28
+    }
+  ],
+  "Heroes": [
+    {
+      "name": "Orpheus",
+      "description": "Legendary musician, poet, and prophet in the Greek myths. Son of Apollo.",
+      "category": "Hero",
+      "attributes": {
+        "origin": "Son of Apollo and the muse Calliope",
+        "symbols": [
+          "Lyre",
+          "Orphic tablets"
+        ],
+        "abode": "Various, including the underworld",
+        "powers": [
+          "Musical prowess",
+          "Journey to the underworld"
+        ],
+        "family": {
+          "parents": [
+            "Apollo",
+            "Calliope"
+          ],
+          "siblings": [
+            "Linus",
+            "Aglaea",
+            "Eupheme"
+          ],
+          "spouse": [
+            "Eurydice"
+          ]
+        },
+        "stories": [
+          "Rescue of Eurydice from the underworld",
+          "Death at the hands of Maenads"
+        ]
+      },
+      "image": "https://example.com/orpheus.jpg",
+      "id": 1
+    },
+    {
+      "name": "Theseus",
+      "description": "Hero and king of Athens, slayer of the Minotaur.",
+      "category": "Hero",
+      "attributes": {
+        "origin": "Son of Aegeus and Aethra",
+        "symbols": [
+          "Sword",
+          "Thread"
+        ],
+        "abode": "Athens",
+        "powers": [
+          "Cunning",
+          "Bravery"
+        ],
+        "family": {
+          "parents": [
+            "Aegeus",
+            "Aethra"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "Hippolyta",
+            "Phaedra"
+          ]
+        },
+        "stories": [
+          "Labors and adventures",
+          "Minotaur's labyrinth"
+        ]
+      },
+      "image": "https://example.com/theseus.jpg",
+      "id": 2
+    },
+    {
+      "name": "Achilles",
+      "description": "Greek hero of the Trojan War, known for his strength and bravery.",
+      "category": "Hero",
+      "attributes": {
+        "origin": "Son of Peleus and Thetis",
+        "symbols": [
+          "Shield",
+          "Spear"
+        ],
+        "abode": "Phthia",
+        "powers": [
+          "Invulnerability (except for his heel)",
+          "Exceptional warrior"
+        ],
+        "family": {
+          "parents": [
+            "Peleus",
+            "Thetis"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Trojan War",
+          "The Iliad"
+        ]
+      },
+      "image": "https://example.com/achilles.jpg",
+      "id": 3
+    },
+    {
+      "name": "Perseus",
+      "description": "Slayer of Medusa and rescuer of Andromeda.",
+      "category": "Hero",
+      "attributes": {
+        "origin": "Son of Zeus and DanaÃ«",
+        "symbols": [
+          "Gorgon's head",
+          "Winged sandals"
+        ],
+        "abode": "Seriphos",
+        "powers": [
+          "Strength",
+          "Bravery"
+        ],
+        "family": {
+          "parents": [
+            "Zeus",
+            "DanaÃ«"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "Andromeda"
+          ]
+        },
+        "stories": [
+          "Slaying Medusa",
+          "Rescuing Andromeda"
+        ]
+      },
+      "image": "https://example.com/perseus.jpg",
+      "id": 4
+    },
+    {
+      "name": "Aeneas",
+      "description": "Trojan hero, the son of Aphrodite and Anchises.",
+      "category": "Hero",
+      "attributes": {
+        "origin": "Son of Aphrodite and Anchises",
+        "symbols": [
+          "Golden bough",
+          "Shield"
+        ],
+        "abode": "Italy",
+        "powers": [
+          "Piety",
+          "Leadership"
+        ],
+        "family": {
+          "parents": [
+            "Anchises",
+            "Aphrodite"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "Creusa",
+            "Lavinia"
+          ]
+        },
+        "stories": [
+          "The Aeneid",
+          "Journey to Italy"
+        ]
+      },
+      "image": "https://example.com/aeneas.jpg",
+      "id": 5
+    },
+    {
+      "name": "Jason",
+      "description": "Leader of the Argonauts in the quest for the Golden Fleece.",
+      "category": "Hero",
+      "attributes": {
+        "origin": "Son of Aeson",
+        "symbols": [
+          "Golden Fleece",
+          "Argo"
+        ],
+        "abode": "Iolcus",
+        "powers": [
+          "Leadership",
+          "Cunning"
+        ],
+        "family": {
+          "parents": [
+            "Aeson",
+            "Alcimede"
+          ],
+          "siblings": [
+            "Promachus"
+          ],
+          "spouse": [
+            "Medea"
+          ]
+        },
+        "stories": [
+          "Quest for the Golden Fleece",
+          "Argonautica"
+        ]
+      },
+      "image": "https://example.com/jason.jpg",
+      "id": 6
+    },
+    {
+      "name": "Bellerophon",
+      "description": "Hero who tamed the winged horse Pegasus and defeated the Chimera.",
+      "category": "Hero",
+      "attributes": {
+        "origin": "Son of Glaucus",
+        "symbols": [
+          "Pegasus",
+          "Bridle"
+        ],
+        "abode": "Corinth",
+        "powers": [
+          "Bravery",
+          "Taming animals"
+        ],
+        "family": {
+          "parents": [
+            "Glaucus",
+            "Eurynome"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "PhilonoÃ«"
+          ]
+        },
+        "stories": [
+          "Taming Pegasus",
+          "Defeating the Chimera"
+        ]
+      },
+      "image": "https://example.com/bellerophon.jpg",
+      "id": 7
+    },
+    {
+      "name": "Castor",
+      "description": "One of the Dioscuri, twin brother of Pollux, known for his skill in horsemanship.",
+      "category": "Hero",
+      "attributes": {
+        "origin": "Son of Leda and Tyndareus",
+        "symbols": [
+          "Horse",
+          "Spear"
+        ],
+        "abode": "Sparta",
+        "powers": [
+          "Horsemanship",
+          "Bravery"
+        ],
+        "family": {
+          "parents": [
+            "Tyndareus",
+            "Leda"
+          ],
+          "siblings": [
+            "Pollux",
+            "Helen",
+            "Clytemnestra"
+          ],
+          "spouse": [
+            "Phoebe"
+          ]
+        },
+        "stories": [
+          "Argonautica",
+          "Rescue of Helen"
+        ]
+      },
+      "image": "https://example.com/castor.jpg",
+      "id": 8
+    },
+    {
+      "name": "Pollux",
+      "description": "One of the Dioscuri, twin brother of Castor, known for his boxing skills.",
+      "category": "Hero",
+      "attributes": {
+        "origin": "Son of Zeus and Leda",
+        "symbols": [
+          "Boxing gloves",
+          "Horse"
+        ],
+        "abode": "Sparta",
+        "powers": [
+          "Boxing",
+          "Immortality"
+        ],
+        "family": {
+          "parents": [
+            "Zeus",
+            "Leda"
+          ],
+          "siblings": [
+            "Castor",
+            "Helen",
+            "Clytemnestra"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Argonautica",
+          "Rescue of Helen"
+        ]
+      },
+      "image": "https://example.com/pollux.jpg",
+      "id": 9
+    },
+    {
+      "name": "Ganymede",
+      "description": "Beautiful Trojan prince abducted by Zeus to be the cup-bearer to the gods.",
+      "category": "Hero",
+      "attributes": {
+        "origin": "Son of Tros",
+        "symbols": [
+          "Cup",
+          "Eagle"
+        ],
+        "abode": "Mount Olympus",
+        "powers": [
+          "Beauty",
+          "Immortality"
+        ],
+        "family": {
+          "parents": [
+            "Tros",
+            "Callirrhoe"
+          ],
+          "siblings": [
+            "Ilus",
+            "Assaracus"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Abduction by Zeus"
+        ]
+      },
+      "image": "https://example.com/ganymede.jpg",
+      "id": 10
+    },
+    {
+      "name": "Hippolytus",
+      "description": "Son of Theseus, known for his chastity and tragic death.",
+      "category": "Hero",
+      "attributes": {
+        "origin": "Son of Theseus and Hippolyta",
+        "symbols": [
+          "Chariot",
+          "Horses"
+        ],
+        "abode": "Troezen",
+        "powers": [
+          "Chastity",
+          "Horsemanship"
+        ],
+        "family": {
+          "parents": [
+            "Theseus",
+            "Hippolyta"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Death by his own horses",
+          "Phaedra's love"
+        ]
+      },
+      "image": "https://example.com/hippolytus.jpg",
+      "id": 11
+    },
+    {
+      "name": "Meleager",
+      "description": "Hero of the Calydonian Boar Hunt.",
+      "category": "Hero",
+      "attributes": {
+        "origin": "Son of Oeneus and Althaea",
+        "symbols": [
+          "Spear",
+          "Boar"
+        ],
+        "abode": "Calydon",
+        "powers": [
+          "Strength",
+          "Hunting skills"
+        ],
+        "family": {
+          "parents": [
+            "Oeneus",
+            "Althaea"
+          ],
+          "siblings": [
+            "Deianeira"
+          ],
+          "spouse": [
+            "Cleopatra"
+          ]
+        },
+        "stories": [
+          "Calydonian Boar Hunt"
+        ]
+      },
+      "image": "https://example.com/meleager.jpg",
+      "id": 12
+    },
+    {
+      "name": "Phaethon",
+      "description": "Son of Helios, known for his tragic attempt to drive the sun chariot.",
+      "category": "Hero",
+      "attributes": {
+        "origin": "Son of Helios and Clymene",
+        "symbols": [
+          "Sun chariot",
+          "Horses"
+        ],
+        "abode": "Sky",
+        "powers": [
+          "Driving the sun chariot"
+        ],
+        "family": {
+          "parents": [
+            "Helios",
+            "Clymene"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Attempt to drive the sun chariot"
+        ]
+      },
+      "image": "https://example.com/phaethon.jpg",
+      "id": 13
+    },
+    {
+      "name": "Atalanta",
+      "description": "Famous huntress and runner, known for her role in the Calydonian Boar Hunt.",
+      "category": "Heroine",
+      "attributes": {
+        "origin": "Daughter of Iasus and Clymene",
+        "symbols": [
+          "Bow and arrows",
+          "Hunting dogs"
+        ],
+        "abode": "Arcadia",
+        "powers": [
+          "Speed",
+          "Hunting skills"
+        ],
+        "family": {
+          "parents": [
+            "Iasus",
+            "Clymene"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "Melanion"
+          ]
+        },
+        "stories": [
+          "Calydonian Boar Hunt",
+          "Footrace with Melanion"
+        ]
+      },
+      "image": "https://example.com/atalanta.jpg",
+      "id": 14
+    },
+    {
+      "name": "Orpheus",
+      "description": "Musician and poet who could charm anyone with his music.",
+      "category": "Hero",
+      "attributes": {
+        "origin": "Son of Oeagrus and Calliope",
+        "symbols": [
+          "Lyre",
+          "Laurel wreath"
+        ],
+        "abode": "Thrace",
+        "powers": [
+          "Musical talent",
+          "Charm"
+        ],
+        "family": {
+          "parents": [
+            "Oeagrus",
+            "Calliope"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "Eurydice"
+          ]
+        },
+        "stories": [
+          "Descent to the Underworld",
+          "Loss of Eurydice"
+        ]
+      },
+      "image": "https://example.com/orpheus.jpg",
+      "id": 15
+    },
+    {
+      "name": "Theseus",
+      "description": "Founder-hero of Athens, known for slaying the Minotaur.",
+      "category": "Hero",
+      "attributes": {
+        "origin": "Son of Aegeus and Aethra",
+        "symbols": [
+          "Sword",
+          "Sandals"
+        ],
+        "abode": "Athens",
+        "powers": [
+          "Strength",
+          "Cunning"
+        ],
+        "family": {
+          "parents": [
+            "Aegeus",
+            "Aethra"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "Phaedra"
+          ]
+        },
+        "stories": [
+          "Labors of Theseus",
+          "Minotaur"
+        ]
+      },
+      "image": "https://example.com/theseus.jpg",
+      "id": 16
+    },
+    {
+      "name": "Cadmus",
+      "description": "Founder of Thebes, known for slaying a dragon and sowing its teeth.",
+      "category": "Hero",
+      "attributes": {
+        "origin": "Son of Agenor and Telephassa",
+        "symbols": [
+          "Dragon teeth",
+          "Sword"
+        ],
+        "abode": "Thebes",
+        "powers": [
+          "Cunning",
+          "Leadership"
+        ],
+        "family": {
+          "parents": [
+            "Agenor",
+            "Telephassa"
+          ],
+          "siblings": [
+            "Europa",
+            "Phoenix"
+          ],
+          "spouse": [
+            "Harmonia"
+          ]
+        },
+        "stories": [
+          "Founding of Thebes",
+          "Dragon slaying"
+        ]
+      },
+      "image": "https://example.com/cadmus.jpg",
+      "id": 17
+    },
+    {
+      "name": "Antigone",
+      "description": "Daughter of Oedipus, known for her defiance of King Creon in burying her brother.",
+      "category": "Heroine",
+      "attributes": {
+        "origin": "Daughter of Oedipus and Jocasta",
+        "symbols": [
+          "Funeral rites",
+          "Veil"
+        ],
+        "abode": "Thebes",
+        "powers": [
+          "Courage",
+          "Loyalty"
+        ],
+        "family": {
+          "parents": [
+            "Oedipus",
+            "Jocasta"
+          ],
+          "siblings": [
+            "Ismene",
+            "Eteocles",
+            "Polyneices"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Burying Polyneices",
+          "Defiance of Creon"
+        ]
+      },
+      "image": "https://example.com/antigone.jpg",
+      "id": 18
+    },
+    {
+      "name": "Oedipus",
+      "description": "King of Thebes who solved the riddle of the Sphinx and unwittingly fulfilled a prophecy.",
+      "category": "Hero",
+      "attributes": {
+        "origin": "Son of Laius and Jocasta",
+        "symbols": [
+          "Sphinx",
+          "Blindfold"
+        ],
+        "abode": "Thebes",
+        "powers": [
+          "Wisdom",
+          "Courage"
+        ],
+        "family": {
+          "parents": [
+            "Laius",
+            "Jocasta"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "Jocasta"
+          ]
+        },
+        "stories": [
+          "Oedipus Rex",
+          "Solving the Sphinx's riddle"
+        ]
+      },
+      "image": "https://example.com/oedipus.jpg",
+      "id": 19
+    },
+    {
+      "name": "Hector",
+      "description": "Trojan prince and greatest warrior of Troy during the Trojan War.",
+      "category": "Hero",
+      "attributes": {
+        "origin": "Son of Priam and Hecuba",
+        "symbols": [
+          "Helmet",
+          "Sword"
+        ],
+        "abode": "Troy",
+        "powers": [
+          "Strength",
+          "Bravery"
+        ],
+        "family": {
+          "parents": [
+            "Priam",
+            "Hecuba"
+          ],
+          "siblings": [
+            "Paris",
+            "Cassandra"
+          ],
+          "spouse": [
+            "Andromache"
+          ]
+        },
+        "stories": [
+          "Trojan War",
+          "Iliad"
+        ]
+      },
+      "image": "https://example.com/hector.jpg",
+      "id": 20
+    },
+    {
+      "name": "Hippolyta",
+      "description": "Queen of the Amazons, known for her encounter with Heracles.",
+      "category": "Heroine",
+      "attributes": {
+        "origin": "Daughter of Ares",
+        "symbols": [
+          "Girdle",
+          "Spear"
+        ],
+        "abode": "Themiscyra",
+        "powers": [
+          "Strength",
+          "Combat skills"
+        ],
+        "family": {
+          "parents": [
+            "Ares",
+            "Otrera"
+          ],
+          "siblings": [
+            "Antiope",
+            "Melanippe"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Encounter with Heracles",
+          "Amazonomachy"
+        ]
+      },
+      "image": "https://example.com/hippolyta.jpg",
+      "id": 21
+    },
+    {
+      "name": "Philoctetes",
+      "description": "Greek hero, known for his archery skills and participation in the Trojan War.",
+      "category": "Hero",
+      "attributes": {
+        "origin": "Son of Poeas",
+        "symbols": [
+          "Bow",
+          "Arrows"
+        ],
+        "abode": "Meliboea",
+        "powers": [
+          "Archery",
+          "Courage"
+        ],
+        "family": {
+          "parents": [
+            "Poeas"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Trojan War",
+          "Wounding of Paris"
+        ]
+      },
+      "image": "https://example.com/philoctetes.jpg",
+      "id": 22
+    },
+    {
+      "name": "Hylas",
+      "description": "Companion of Heracles, abducted by nymphs during the Argonauts' expedition.",
+      "category": "Hero",
+      "attributes": {
+        "origin": "Son of Theiodamas",
+        "symbols": [
+          "Water jug",
+          "Club"
+        ],
+        "abode": "Arcadia",
+        "powers": [
+          "Beauty",
+          "Strength"
+        ],
+        "family": {
+          "parents": [
+            "Theiodamas"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Abduction by Nymphs",
+          "Argonautica"
+        ]
+      },
+      "image": "https://example.com/hylas.jpg",
+      "id": 23
+    },
+    {
+      "name": "Antiope",
+      "description": "Amazonian queen and warrior, known for her marriage to Theseus.",
+      "category": "Heroine",
+      "attributes": {
+        "origin": "Daughter of Ares",
+        "symbols": [
+          "Spear",
+          "Shield"
+        ],
+        "abode": "Themiscyra",
+        "powers": [
+          "Strength",
+          "Combat skills"
+        ],
+        "family": {
+          "parents": [
+            "Ares"
+          ],
+          "siblings": [
+            "Hippolyta",
+            "Melanippe"
+          ],
+          "spouse": [
+            "Theseus"
+          ]
+        },
+        "stories": [
+          "Amazonomachy",
+          "Marriage to Theseus"
+        ]
+      },
+      "image": "https://example.com/antiope.jpg",
+      "id": 24
+    },
+    {
+      "name": "Nestor",
+      "description": "King of Pylos and a wise counselor in the Trojan War.",
+      "category": "Hero",
+      "attributes": {
+        "origin": "Son of Neleus",
+        "symbols": [
+          "Scepter",
+          "Cup"
+        ],
+        "abode": "Pylos",
+        "powers": [
+          "Wisdom",
+          "Longevity"
+        ],
+        "family": {
+          "parents": [
+            "Neleus",
+            "Chloris"
+          ],
+          "siblings": [
+            "Periclymenus"
+          ],
+          "spouse": [
+            "Anaxibia",
+            "Eurydice"
+          ]
+        },
+        "stories": [
+          "Trojan War",
+          "Odyssey"
+        ]
+      },
+      "image": "https://example.com/nestor.jpg",
+      "id": 25
+    },
+    {
+      "name": "Pandora",
+      "description": "First woman in Greek mythology, known for opening a box that released all the evils of humanity.",
+      "category": "Heroine",
+      "attributes": {
+        "origin": "Created by Hephaestus",
+        "symbols": [
+          "Box",
+          "Curiosity"
+        ],
+        "abode": "Earth",
+        "powers": [
+          "Curiosity",
+          "Beauty"
+        ],
+        "family": {
+          "parents": [
+            "Hephaestus"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "Epimetheus"
+          ]
+        },
+        "stories": [
+          "Pandora's Box"
+        ]
+      },
+      "image": "https://example.com/pandora.jpg",
+      "id": 26
+    },
+    {
+      "name": "Tithonus",
+      "description": "Trojan prince, lover of Eos (the dawn), granted immortality but not eternal youth.",
+      "category": "Hero",
+      "attributes": {
+        "origin": "Son of Laomedon",
+        "symbols": [
+          "Lyre",
+          "Cicada"
+        ],
+        "abode": "East",
+        "powers": [
+          "Immortality"
+        ],
+        "family": {
+          "parents": [
+            "Laomedon",
+            "Strymo"
+          ],
+          "siblings": [
+            "Priam",
+            "Hesione"
+          ],
+          "spouse": [
+            "Eos"
+          ]
+        },
+        "stories": [
+          "Love with Eos"
+        ]
+      },
+      "image": "https://example.com/tithonus.jpg",
+      "id": 27
+    },
+    {
+      "name": "Amphiaraus",
+      "description": "A seer and hero of the Seven Against Thebes.",
+      "category": "Hero",
+      "attributes": {
+        "origin": "Son of Oicles",
+        "symbols": [
+          "Serpent",
+          "Shield"
+        ],
+        "abode": "Argos",
+        "powers": [
+          "Prophecy",
+          "Combat skills"
+        ],
+        "family": {
+          "parents": [
+            "Oicles",
+            "Hypermnestra"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "Eriphyle"
+          ]
+        },
+        "stories": [
+          "Seven Against Thebes"
+        ]
+      },
+      "image": "https://example.com/amphiaraus.jpg",
+      "id": 28
+    },
+    {
+      "name": "Iphigenia",
+      "description": "Daughter of Agamemnon, known for her sacrifice at Aulis.",
+      "category": "Heroine",
+      "attributes": {
+        "origin": "Daughter of Agamemnon and Clytemnestra",
+        "symbols": [
+          "Altar",
+          "Deer"
+        ],
+        "abode": "Aulis",
+        "powers": [
+          "Purity",
+          "Devotion"
+        ],
+        "family": {
+          "parents": [
+            "Agamemnon",
+            "Clytemnestra"
+          ],
+          "siblings": [
+            "Electra",
+            "Orestes"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Sacrifice at Aulis"
+        ]
+      },
+      "image": "https://example.com/iphigenia.jpg",
+      "id": 29
+    },
+    {
+      "name": "Medea",
+      "description": "Sorceress, wife of Jason, known for her revenge against him.",
+      "category": "Heroine",
+      "attributes": {
+        "origin": "Daughter of AeÃ«tes",
+        "symbols": [
+          "Cauldron",
+          "Dagger"
+        ],
+        "abode": "Colchis",
+        "powers": [
+          "Magic",
+          "Healing"
+        ],
+        "family": {
+          "parents": [
+            "AeÃ«tes",
+            "Idyia"
+          ],
+          "siblings": [
+            "Absyrtus"
+          ],
+          "spouse": [
+            "Jason",
+            "Aegeus"
+          ]
+        },
+        "stories": [
+          "Golden Fleece",
+          "Revenge on Jason"
+        ]
+      },
+      "image": "https://example.com/medea.jpg",
+      "id": 30
+    },
+    {
+      "name": "Adonis",
+      "description": "A youth of remarkable beauty, loved by Aphrodite.",
+      "category": "Hero",
+      "attributes": {
+        "origin": "Son of Myrrha",
+        "symbols": [
+          "Anemone",
+          "Boar"
+        ],
+        "abode": "Earth",
+        "powers": [
+          "Beauty",
+          "Charm"
+        ],
+        "family": {
+          "parents": [
+            "Myrrha",
+            "Cinyras"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "Aphrodite"
+          ]
+        },
+        "stories": [
+          "Adonis and Aphrodite",
+          "Death by Boar"
+        ]
+      },
+      "image": "https://example.com/adonis.jpg",
+      "id": 31
+    },
+    {
+      "name": "Peleus",
+      "description": "Hero, father of Achilles, husband of the sea nymph Thetis.",
+      "category": "Hero",
+      "attributes": {
+        "origin": "Son of Aeacus",
+        "symbols": [
+          "Sword",
+          "Spear"
+        ],
+        "abode": "Phthia",
+        "powers": [
+          "Strength",
+          "Bravery"
+        ],
+        "family": {
+          "parents": [
+            "Aeacus",
+            "EndeÃ¯s"
+          ],
+          "siblings": [
+            "Telamon"
+          ],
+          "spouse": [
+            "Thetis"
+          ]
+        },
+        "stories": [
+          "Marriage to Thetis",
+          "Father of Achilles"
+        ]
+      },
+      "image": "https://example.com/peleus.jpg",
+      "id": 32
+    },
+    {
+      "name": "Teucer",
+      "description": "Archer and half-brother of Ajax the Great, fought in the Trojan War.",
+      "category": "Hero",
+      "attributes": {
+        "origin": "Son of Telamon",
+        "symbols": [
+          "Bow",
+          "Arrow"
+        ],
+        "abode": "Salamis",
+        "powers": [
+          "Archery",
+          "Bravery"
+        ],
+        "family": {
+          "parents": [
+            "Telamon",
+            "Hesione"
+          ],
+          "siblings": [
+            "Ajax the Great"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Trojan War"
+        ]
+      },
+      "image": "https://example.com/teucer.jpg",
+      "id": 33
+    },
+    {
+      "name": "Diomedes",
+      "description": "Greek hero of the Trojan War, known for wounding Ares and Aphrodite.",
+      "category": "Hero",
+      "attributes": {
+        "origin": "Son of Tydeus and Deipyle",
+        "symbols": [
+          "Chariot",
+          "Spear"
+        ],
+        "abode": "Argos",
+        "powers": [
+          "Combat prowess",
+          "Divine favor"
+        ],
+        "family": {
+          "parents": [
+            "Tydeus",
+            "Deipyle"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "Aegialia"
+          ]
+        },
+        "stories": [
+          "Wounding of Ares",
+          "Trojan War exploits"
+        ]
+      },
+      "image": "https://example.com/diomedes.jpg",
+      "id": 34
+    },
+    {
+      "name": "Andromache",
+      "description": "Wife of Hector, embodiment of wifely devotion in Greek mythology.",
+      "category": "Heroine",
+      "attributes": {
+        "origin": "Daughter of Eetion",
+        "symbols": [
+          "Veil",
+          "City walls"
+        ],
+        "abode": "Troy",
+        "powers": [
+          "Loyalty",
+          "Endurance"
+        ],
+        "family": {
+          "parents": [
+            "Eetion"
+          ],
+          "siblings": [
+            "Seven brothers"
+          ],
+          "spouse": [
+            "Hector",
+            "Neoptolemus"
+          ]
+        },
+        "stories": [
+          "Farewell to Hector",
+          "Fall of Troy"
+        ]
+      },
+      "image": "https://example.com/andromache.jpg",
+      "id": 35
+    },
+    {
+      "name": "Orion",
+      "description": "Giant huntsman placed among the stars by Zeus.",
+      "category": "Hero",
+      "attributes": {
+        "origin": "Son of Poseidon and Euryale",
+        "symbols": [
+          "Belt",
+          "Club"
+        ],
+        "abode": "Constellation",
+        "powers": [
+          "Hunting skills",
+          "Gigantic size"
+        ],
+        "family": {
+          "parents": [
+            "Poseidon",
+            "Euryale"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "Side"
+          ]
+        },
+        "stories": [
+          "Love of Merope",
+          "Blinding by Oenopion"
+        ]
+      },
+      "image": "https://example.com/orion.jpg",
+      "id": 36
+    },
+    {
+      "name": "Aeneas",
+      "description": "Trojan hero, ancestor of the Romans, son of Venus and Anchises.",
+      "category": "Hero",
+      "attributes": {
+        "origin": "Son of Venus and Anchises",
+        "symbols": [
+          "Trojan Penates",
+          "Golden Bough"
+        ],
+        "abode": "Troy, later Italy",
+        "powers": [
+          "Leadership",
+          "Divine protection"
+        ],
+        "family": {
+          "parents": [
+            "Venus",
+            "Anchises"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "Creusa",
+            "Lavinia"
+          ]
+        },
+        "stories": [
+          "Escape from Troy",
+          "Founding of Roman lineage"
+        ]
+      },
+      "image": "https://example.com/aeneas.jpg",
+      "id": 37
+    },
+    {
+      "name": "Daedalus",
+      "description": "Legendary craftsman and artist, creator of the Labyrinth.",
+      "category": "Hero",
+      "attributes": {
+        "origin": "Son of Metion",
+        "symbols": [
+          "Labyrinth",
+          "Wings"
+        ],
+        "abode": "Athens, later Crete",
+        "powers": [
+          "Inventiveness",
+          "Craftsmanship"
+        ],
+        "family": {
+          "parents": [
+            "Metion",
+            "Alcippe"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "Naucrate"
+          ]
+        },
+        "stories": [
+          "Creation of the Labyrinth",
+          "Flight from Crete"
+        ]
+      },
+      "image": "https://example.com/daedalus.jpg",
+      "id": 38
+    },
+    {
+      "name": "Atlanta",
+      "description": "Virgin huntress, only woman among the Argonauts.",
+      "category": "Heroine",
+      "attributes": {
+        "origin": "Daughter of Iasus",
+        "symbols": [
+          "Golden apples",
+          "Bow"
+        ],
+        "abode": "Arcadia",
+        "powers": [
+          "Speed",
+          "Hunting skills"
+        ],
+        "family": {
+          "parents": [
+            "Iasus",
+            "Clymene"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "Hippomenes"
+          ]
+        },
+        "stories": [
+          "Calydonian Boar Hunt",
+          "Race for marriage"
+        ]
+      },
+      "image": "https://example.com/atlanta.jpg",
+      "id": 39
+    },
+    {
+      "name": "Iphicles",
+      "description": "Twin brother of Heracles, known for his mortality in contrast to his divine sibling.",
+      "category": "Hero",
+      "attributes": {
+        "origin": "Son of Amphitryon and Alcmene",
+        "symbols": [
+          "Sword",
+          "Shield"
+        ],
+        "abode": "Thebes",
+        "powers": [
+          "Bravery",
+          "Mortal strength"
+        ],
+        "family": {
+          "parents": [
+            "Amphitryon",
+            "Alcmene"
+          ],
+          "siblings": [
+            "Heracles"
+          ],
+          "spouse": [
+            "Automedusa"
+          ]
+        },
+        "stories": [
+          "Birth of Heracles",
+          "Theban wars"
+        ]
+      },
+      "image": "https://example.com/iphicles.jpg",
+      "id": 40
+    },
+    {
+      "name": "Cassandra",
+      "description": "Trojan princess with the gift of prophecy but cursed to never be believed.",
+      "category": "Heroine",
+      "attributes": {
+        "origin": "Daughter of Priam and Hecuba",
+        "symbols": [
+          "Serpents",
+          "Laurel wreath"
+        ],
+        "abode": "Troy",
+        "powers": [
+          "Prophecy",
+          "Cursed foresight"
+        ],
+        "family": {
+          "parents": [
+            "Priam",
+            "Hecuba"
+          ],
+          "siblings": [
+            "Hector",
+            "Paris"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Prophecies of Troy's fall",
+          "Curse of Apollo"
+        ]
+      },
+      "image": "https://example.com/cassandra.jpg",
+      "id": 41
+    },
+    {
+      "name": "Odysseus",
+      "description": "King of Ithaca, known for his cunning and ten-year journey home after the Trojan War.",
+      "category": "Hero",
+      "attributes": {
+        "origin": "Son of Laertes and Anticlea",
+        "symbols": [
+          "Bow",
+          "Trojan Horse"
+        ],
+        "abode": "Ithaca",
+        "powers": [
+          "Cunning",
+          "Eloquence"
+        ],
+        "family": {
+          "parents": [
+            "Laertes",
+            "Anticlea"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "Penelope"
+          ]
+        },
+        "stories": [
+          "Trojan War",
+          "Odyssey"
+        ]
+      },
+      "image": "https://example.com/odysseus.jpg",
+      "id": 42
+    },
+    {
+      "name": "Deucalion",
+      "description": "Son of Prometheus, survivor of the great flood in Greek mythology.",
+      "category": "Hero",
+      "attributes": {
+        "origin": "Son of Prometheus",
+        "symbols": [
+          "Ark",
+          "Stones"
+        ],
+        "abode": "Mount Parnassus",
+        "powers": [
+          "Survival",
+          "Repopulation"
+        ],
+        "family": {
+          "parents": [
+            "Prometheus",
+            "Pronoia"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "Pyrrha"
+          ]
+        },
+        "stories": [
+          "Great Flood",
+          "Repopulation of Earth"
+        ]
+      },
+      "image": "https://example.com/deucalion.jpg",
+      "id": 43
+    },
+    {
+      "name": "Penthesilea",
+      "description": "Amazonian queen who fought in the Trojan War.",
+      "category": "Heroine",
+      "attributes": {
+        "origin": "Daughter of Ares",
+        "symbols": [
+          "Double-headed axe",
+          "Shield"
+        ],
+        "abode": "Themiscyra",
+        "powers": [
+          "Combat prowess",
+          "Leadership"
+        ],
+        "family": {
+          "parents": [
+            "Ares",
+            "Otrera"
+          ],
+          "siblings": [
+            "Hippolyta",
+            "Antiope"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Trojan War",
+          "Duel with Achilles"
+        ]
+      },
+      "image": "https://example.com/penthesilea.jpg",
+      "id": 44
+    },
+    {
+      "name": "Laocoon",
+      "description": "Trojan priest who warned against the Trojan Horse.",
+      "category": "Hero",
+      "attributes": {
+        "origin": "Son of Acoetes",
+        "symbols": [
+          "Serpents",
+          "Spear"
+        ],
+        "abode": "Troy",
+        "powers": [
+          "Prophecy",
+          "Priesthood"
+        ],
+        "family": {
+          "parents": [
+            "Acoetes"
+          ],
+          "siblings": [
+            "Anchises"
+          ],
+          "spouse": [
+            "Unknown"
+          ]
+        },
+        "stories": [
+          "Warning against the Trojan Horse",
+          "Death by serpents"
+        ]
+      },
+      "image": "https://example.com/laocoon.jpg",
+      "id": 45
+    },
+    {
+      "name": "Icarus",
+      "description": "Son of Daedalus who flew too close to the sun with wax wings.",
+      "category": "Hero",
+      "attributes": {
+        "origin": "Son of Daedalus",
+        "symbols": [
+          "Wax wings",
+          "Sun"
+        ],
+        "abode": "Crete",
+        "powers": [
+          "Flight (temporary)"
+        ],
+        "family": {
+          "parents": [
+            "Daedalus",
+            "Naucrate"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Flight from Crete",
+          "Fall into the sea"
+        ]
+      },
+      "image": "https://example.com/icarus.jpg",
+      "id": 46
+    },
+    {
+      "name": "Bellerophon",
+      "description": "Hero who tamed Pegasus and slew the Chimera.",
+      "category": "Hero",
+      "attributes": {
+        "origin": "Son of Poseidon or Glaucus",
+        "symbols": [
+          "Pegasus",
+          "Spear"
+        ],
+        "abode": "Corinth",
+        "powers": [
+          "Taming of Pegasus",
+          "Combat skills"
+        ],
+        "family": {
+          "parents": [
+            "Poseidon or Glaucus",
+            "Eurynome"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "Philonoe"
+          ]
+        },
+        "stories": [
+          "Slaying of the Chimera",
+          "Fall from Pegasus"
+        ]
+      },
+      "image": "https://example.com/bellerophon.jpg",
+      "id": 47
+    },
+    {
+      "name": "Alcestis",
+      "description": "Queen of Pherae who sacrificed her life for her husband Admetus.",
+      "category": "Heroine",
+      "attributes": {
+        "origin": "Daughter of Pelias",
+        "symbols": [
+          "Veil",
+          "Sacrifice altar"
+        ],
+        "abode": "Pherae",
+        "powers": [
+          "Self-sacrifice",
+          "Loyalty"
+        ],
+        "family": {
+          "parents": [
+            "Pelias"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "Admetus"
+          ]
+        },
+        "stories": [
+          "Sacrifice for Admetus",
+          "Rescue by Heracles"
+        ]
+      },
+      "image": "https://example.com/alcestis.jpg",
+      "id": 48
+    },
+    {
+      "name": "Chrysippus",
+      "description": "Prince of Elis, known for his beauty and tragic fate.",
+      "category": "Hero",
+      "attributes": {
+        "origin": "Son of Pelops",
+        "symbols": [
+          "Chariot",
+          "Lyre"
+        ],
+        "abode": "Elis",
+        "powers": [
+          "Beauty",
+          "Charm"
+        ],
+        "family": {
+          "parents": [
+            "Pelops",
+            "Axioche"
+          ],
+          "siblings": [
+            "Atreus",
+            "Thyestes"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Abduction by Laius",
+          "Curse on the House of Atreus"
+        ]
+      },
+      "image": "https://example.com/chrysippus.jpg",
+      "id": 49
+    },
+    {
+      "name": "Electra",
+      "description": "Daughter of Agamemnon, known for her role in avenging her father's death.",
+      "category": "Heroine",
+      "attributes": {
+        "origin": "Daughter of Agamemnon and Clytemnestra",
+        "symbols": [
+          "Urn",
+          "Dagger"
+        ],
+        "abode": "Mycenae",
+        "powers": [
+          "Determination",
+          "Loyalty"
+        ],
+        "family": {
+          "parents": [
+            "Agamemnon",
+            "Clytemnestra"
+          ],
+          "siblings": [
+            "Orestes",
+            "Iphigenia"
+          ],
+          "spouse": [
+            "Pylades"
+          ]
+        },
+        "stories": [
+          "Revenge on Clytemnestra",
+          "Reunion with Orestes"
+        ]
+      },
+      "image": "https://example.com/electra.jpg",
+      "id": 50
+    },
+    {
+      "name": "Aenon",
+      "description": "River god and lover of Aphrodite.",
+      "category": "Hero",
+      "attributes": {
+        "origin": "Son of Oceanus",
+        "symbols": [
+          "River",
+          "Reeds"
+        ],
+        "abode": "River Adonis",
+        "powers": [
+          "Water control",
+          "Fertility"
+        ],
+        "family": {
+          "parents": [
+            "Oceanus",
+            "Tethys"
+          ],
+          "siblings": [
+            "River gods"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Love affair with Aphrodite",
+          "Transformation into river"
+        ]
+      },
+      "image": "https://example.com/aenon.jpg",
+      "id": 51
+    },
+    {
+      "name": "Philemon",
+      "description": "Pious old man who, with his wife Baucis, showed hospitality to disguised gods.",
+      "category": "Hero",
+      "attributes": {
+        "origin": "Mortal man of Phrygia",
+        "symbols": [
+          "Oak tree",
+          "Temple"
+        ],
+        "abode": "Phrygia",
+        "powers": [
+          "Piety",
+          "Hospitality"
+        ],
+        "family": {
+          "parents": [
+            "Unknown"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "Baucis"
+          ]
+        },
+        "stories": [
+          "Hosting Zeus and Hermes",
+          "Transformation into trees"
+        ]
+      },
+      "image": "https://example.com/philemon.jpg",
+      "id": 52
+    },
+    {
+      "name": "Nausicaa",
+      "description": "Phaeacian princess who aided Odysseus.",
+      "category": "Heroine",
+      "attributes": {
+        "origin": "Daughter of Alcinous and Arete",
+        "symbols": [
+          "Ball",
+          "Olive tree"
+        ],
+        "abode": "Scheria",
+        "powers": [
+          "Kindness",
+          "Beauty"
+        ],
+        "family": {
+          "parents": [
+            "Alcinous",
+            "Arete"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Meeting Odysseus",
+          "Helping Odysseus return home"
+        ]
+      },
+      "image": "https://example.com/nausicaa.jpg",
+      "id": 53
+    }
+  ],
+  "Monsters": [
+    {
+      "name": "Typhon",
+      "description": "Monstrous offspring of Gaia and Tartarus. Father of many famous monsters.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Offspring of Gaia and Tartarus",
+        "symbols": [
+          "Serpentine body",
+          "Fire-breathing"
+        ],
+        "abode": "Mount Etna (imprisoned)",
+        "powers": [
+          "Cataclysmic strength",
+          "Storms and volcanic eruptions"
+        ],
+        "family": {
+          "parents": [
+            "Gaia",
+            "Tartarus"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "Echidna"
+          ]
+        },
+        "stories": [
+          "Battle with Zeus",
+          "Imprisonment under Mount Etna"
+        ]
+      },
+      "image": "https://example.com/typhon.jpg",
+      "id": 1
+    },
+    {
+      "name": "Cerberus",
+      "description": "Guardian of the underworld, a three-headed hound.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Offspring of Echidna and Typhon",
+        "symbols": [
+          "Three heads",
+          "Snake tail"
+        ],
+        "abode": "Underworld (Hades)",
+        "powers": [
+          "Guardian of the dead",
+          "Prevents living from entering"
+        ],
+        "family": {
+          "parents": [
+            "Echidna",
+            "Typhon"
+          ],
+          "siblings": [
+            "Orthrus",
+            "Chimera",
+            "Hydra"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Capture by Heracles",
+          "Role in Hades' realm"
+        ]
+      },
+      "image": "https://example.com/cerberus.jpg",
+      "id": 2
+    },
+    {
+      "name": "Medusa",
+      "description": "One of the Gorgons, with snakes for hair and the ability to turn people to stone with her gaze.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Daughter of Phorcys and Ceto",
+        "symbols": [
+          "Snake hair",
+          "Gorgon mask"
+        ],
+        "abode": "Cave in Libya",
+        "powers": [
+          "Petrifying gaze",
+          "Immortality until slain"
+        ],
+        "family": {
+          "parents": [
+            "Phorcys",
+            "Ceto"
+          ],
+          "siblings": [
+            "Stheno",
+            "Euryale"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Death by Perseus",
+          "Birth of Pegasus and Chrysaor"
+        ]
+      },
+      "image": "https://example.com/medusa.jpg",
+      "id": 3
+    },
+    {
+      "name": "Chimera",
+      "description": "Fire-breathing hybrid creature with the body of a lion, the head of a goat arising from its back, and a tail that ended in a snake's head.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Offspring of Typhon and Echidna",
+        "symbols": [
+          "Lion body",
+          "Goat head",
+          "Snake tail"
+        ],
+        "abode": "Lycia in Asia Minor",
+        "powers": [
+          "Fire breath",
+          "Composite form"
+        ],
+        "family": {
+          "parents": [
+            "Typhon",
+            "Echidna"
+          ],
+          "siblings": [
+            "Cerberus",
+            "Orthrus",
+            "Hydra"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Defeated by Bellerophon",
+          "Heraldry of ancient Lycia"
+        ]
+      },
+      "image": "https://example.com/chimera.jpg",
+      "id": 4
+    },
+    {
+      "name": "Scylla",
+      "description": "A sea monster with twelve dog-heads and six snake-like lower bodies, who lived on one side of a narrow channel opposite her counterpart Charybdis.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Nymph cursed by Circe",
+        "symbols": [
+          "Dog heads",
+          "Snake tails"
+        ],
+        "abode": "Straits of Messina",
+        "powers": [
+          "Snatching sailors from passing ships",
+          "Terrorizing the seas"
+        ],
+        "family": {
+          "parents": [
+            "Crataeis"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Transformation by Circe",
+          "Encounter with Odysseus"
+        ]
+      },
+      "image": "https://example.com/scylla.jpg",
+      "id": 5
+    },
+    {
+      "name": "Cyclops",
+      "description": "Giant creatures with a single eye in the middle of their forehead, known for their forging abilities and association with the god Hephaestus.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Offspring of Uranus and Gaia or Poseidon and Amphitrite",
+        "symbols": [
+          "Single eye",
+          "Massive size"
+        ],
+        "abode": "Various caves in Sicily and Greece",
+        "powers": [
+          "Craftsmanship",
+          "Strength"
+        ],
+        "family": {
+          "parents": [
+            "Poseidon",
+            "Amphitrite"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Imprisonment of Odysseus",
+          "Encounter with Jason and the Argonauts"
+        ]
+      },
+      "image": "https://example.com/cyclops.jpg",
+      "id": 6
+    },
+    {
+      "name": "Minotaur",
+      "description": "Half-man, half-bull creature imprisoned in the Labyrinth of Crete, offspring of PasiphaÃ« and the Cretan Bull.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Offspring of PasiphaÃ« and the Cretan Bull",
+        "symbols": [
+          "Bull head",
+          "Human body"
+        ],
+        "abode": "Labyrinth of Crete",
+        "powers": [
+          "Maze navigation",
+          "Strength and ferocity"
+        ],
+        "family": {
+          "parents": [
+            "PasiphaÃ«",
+            "Cretan Bull"
+          ],
+          "siblings": [
+            "Ariadne",
+            "Deucalion"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Defeat by Theseus",
+          "Role in Athenian mythology"
+        ]
+      },
+      "image": "https://example.com/minotaur.jpg",
+      "id": 7
+    },
+    {
+      "name": "Gorgons",
+      "description": "Three monstrous sisters with snakes for hair, whose gaze turned people to stone. Stheno and Euryale were immortal, while Medusa was mortal.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Daughters of Phorcys and Ceto",
+        "symbols": [
+          "Snake hair",
+          "Gorgon mask"
+        ],
+        "abode": "Various, including the Gorgades islands",
+        "powers": [
+          "Petrifying gaze",
+          "Immortality (Stheno and Euryale)"
+        ],
+        "family": {
+          "parents": [
+            "Phorcys",
+            "Ceto"
+          ],
+          "siblings": [
+            "Echidna",
+            "Ladon",
+            "Typhon"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Encounter with Perseus",
+          "Role in hero mythology"
+        ]
+      },
+      "image": "https://example.com/gorgons.jpg",
+      "id": 8
+    },
+    {
+      "name": "Hydra",
+      "description": "Lernaean serpent with multiple heads, capable of regeneration. One of Heracles' Twelve Labors was to slay it.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Offspring of Typhon and Echidna",
+        "symbols": [
+          "Many heads",
+          "Regenerative ability"
+        ],
+        "abode": "Lerna (swamp near Argos)",
+        "powers": [
+          "Venomous breath",
+          "Immortality through regrowth"
+        ],
+        "family": {
+          "parents": [
+            "Typhon",
+            "Echidna"
+          ],
+          "siblings": [
+            "Cerberus",
+            "Chimera",
+            "Orthrus"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Defeat by Heracles",
+          "Immortal challenge"
+        ]
+      },
+      "image": "https://example.com/hydra.jpg",
+      "id": 9
+    },
+    {
+      "name": "Sirens",
+      "description": "Dangerous creatures, portrayed as femmes fatales who lured nearby sailors with their enchanting music and voices to shipwreck on the rocky coast of their island.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Offspring of Achelous and one of the Muses or Calliope",
+        "symbols": [
+          "Beautiful women",
+          "Bird feathers"
+        ],
+        "abode": "Sirenum scopuli (Siren Rocks)",
+        "powers": [
+          "Enchanting song",
+          "Shipwreck allure"
+        ],
+        "family": {
+          "parents": [
+            "Achelous",
+            "Melpomene or Calliope"
+          ],
+          "siblings": [
+            "Muses",
+            "Thelxiepeia",
+            "Peisinoe",
+            "Aglaope"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Challenge to Odysseus",
+          "Role in ancient navigation"
+        ]
+      },
+      "image": "https://example.com/sirens.jpg",
+      "id": 10
+    },
+    {
+      "name": "Geryon",
+      "description": "Three-bodied giant, master of a fabulous herd of red cattle of Geryon in the far west of the Mediterranean.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Offspring of Chrysaor and Callirhoe",
+        "symbols": [
+          "Three bodies",
+          "Herdsman's staff"
+        ],
+        "abode": "Erytheia (modern-day Cadiz, Spain)",
+        "powers": [
+          "Control over cattle",
+          "Triplet form"
+        ],
+        "family": {
+          "parents": [
+            "Chrysaor",
+            "Callirhoe"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Defeat by Heracles",
+          "Labor to retrieve cattle"
+        ]
+      },
+      "image": "https://example.com/geryon.jpg",
+      "id": 11
+    },
+    {
+      "name": "Harpy",
+      "description": "Half-woman, half-bird creatures known for stealing food and punishing the guilty.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Wind spirits associated with storm winds",
+        "symbols": [
+          "Bird wings",
+          "Talons"
+        ],
+        "abode": "Cliffside dens, often in Crete",
+        "powers": [
+          "Swift flight",
+          "Punishment of wrongdoers"
+        ],
+        "family": {
+          "parents": [
+            "Electra",
+            "Thaumas"
+          ],
+          "siblings": [
+            "Iris",
+            "Achelous",
+            "Aello"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Punishment of the blind seer Phineus",
+          "Capture of the Trojans"
+        ]
+      },
+      "image": "https://example.com/harpy.jpg",
+      "id": 12
+    },
+    {
+      "name": "Manticore",
+      "description": "Legendary creature with the body of a lion, the face of a human, and the tail of a scorpion.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Often from Persian mythology, adopted into Greek tales",
+        "symbols": [
+          "Lion body",
+          "Human face",
+          "Scorpion tail"
+        ],
+        "abode": "Forests or remote locations",
+        "powers": [
+          "Venomous tail",
+          "Sharp teeth"
+        ],
+        "family": {
+          "parents": [
+            "Unknown"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Encounter with heroes and travelers",
+          "Mythical warnings"
+        ]
+      },
+      "image": "https://example.com/manticore.jpg",
+      "id": 13
+    },
+    {
+      "name": "Pegasus",
+      "description": "Winged horse born from Medusa's blood when Perseus killed her.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Born from the blood of Medusa",
+        "symbols": [
+          "Wings",
+          "Divine speed"
+        ],
+        "abode": "Olympus and heroic quests",
+        "powers": [
+          "Flight",
+          "Strength and endurance"
+        ],
+        "family": {
+          "parents": [
+            "Medusa"
+          ],
+          "siblings": [
+            "Chrysaor"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Bellerophon's taming and use in battle",
+          "Divine associations"
+        ]
+      },
+      "image": "https://example.com/pegasus.jpg",
+      "id": 14
+    },
+    {
+      "name": "Sphinx",
+      "description": "Winged lion with the head of a human, known for her riddles and guarding the city of Thebes.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Offspring of Typhon and Echidna or Chimera and Orthrus",
+        "symbols": [
+          "Lion body",
+          "Human head"
+        ],
+        "abode": "Rocky cliffs outside Thebes",
+        "powers": [
+          "Riddles",
+          "Threat to travelers"
+        ],
+        "family": {
+          "parents": [
+            "Typhon",
+            "Echidna",
+            "Chimera",
+            "Orthrus"
+          ],
+          "siblings": [
+            "Cerberus",
+            "Hydra",
+            "Gorgons"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Defeated by Oedipus",
+          "Role in the riddle of the Sphinx"
+        ]
+      },
+      "image": "https://example.com/sphinx.jpg",
+      "id": 15
+    },
+    {
+      "name": "Nemean Lion",
+      "description": "Giant lion with impenetrable golden fur, slain by Heracles as his first labor.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Offspring of Typhon and Echidna or Selene and Orthrus",
+        "symbols": [
+          "Golden fur",
+          "Immunity to weapons"
+        ],
+        "abode": "Nemea",
+        "powers": [
+          "Invulnerability to weapons",
+          "Terrorization of Nemea"
+        ],
+        "family": {
+          "parents": [
+            "Typhon",
+            "Echidna",
+            "Selene",
+            "Orthrus"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Defeated by Heracles during the First Labor"
+        ]
+      },
+      "image": "https://example.com/nemean-lion.jpg",
+      "id": 16
+    },
+    {
+      "name": "Orthrus",
+      "description": "Two-headed dog and brother of Cerberus, owned by Geryon.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Offspring of Echidna and Typhon",
+        "symbols": [
+          "Two heads"
+        ],
+        "abode": "Herds of Geryon (Erytheia)",
+        "powers": [
+          "Guardian of Geryon's cattle",
+          "Vigilance"
+        ],
+        "family": {
+          "parents": [
+            "Echidna",
+            "Typhon"
+          ],
+          "siblings": [
+            "Cerberus",
+            "Chimera",
+            "Hydra"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Defeated by Heracles during the Tenth Labor"
+        ]
+      },
+      "image": "https://example.com/orthrus.jpg",
+      "id": 17
+    },
+    {
+      "name": "Ladon",
+      "description": "Hundred-headed dragon that guarded the golden apples of immortality in the Garden of the Hesperides.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Offspring of Typhon and Echidna",
+        "symbols": [
+          "Hundred heads",
+          "Serpentine body"
+        ],
+        "abode": "Garden of the Hesperides",
+        "powers": [
+          "Guardian of the golden apples",
+          "Intricate surveillance"
+        ],
+        "family": {
+          "parents": [
+            "Typhon",
+            "Echidna"
+          ],
+          "siblings": [
+            "Cerberus",
+            "Hydra",
+            "Chimera"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Defeated by Heracles during the Eleventh Labor"
+        ]
+      },
+      "image": "https://example.com/ladon.jpg",
+      "id": 18
+    },
+    {
+      "name": "Gigantes",
+      "description": "Race of giant beings born from the blood of Uranus after his castration.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Offspring of Uranus and Gaia",
+        "symbols": [
+          "Massive size",
+          "Titanic strength"
+        ],
+        "abode": "Earth, particularly Phlegra in Thrace",
+        "powers": [
+          "Resistance to the gods",
+          "Formation of islands and mountains"
+        ],
+        "family": {
+          "parents": [
+            "Uranus",
+            "Gaia"
+          ],
+          "siblings": [
+            "Titans",
+            "Cyclopes",
+            "Hecatoncheires"
+          ],
+          "spouse": [
+            "Varies"
+          ]
+        },
+        "stories": [
+          "Battle with the Olympians",
+          "Defeat by the gods"
+        ]
+      },
+      "image": "https://example.com/gigantes.jpg",
+      "id": 19
+    },
+    {
+      "name": "Centaur",
+      "description": "Half-human, half-horse creatures known for their wild and unruly behavior.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Offspring of Ixion and Nephele or offspring of Centaurus",
+        "symbols": [
+          "Human torso",
+          "Horse body"
+        ],
+        "abode": "Forests and mountains of Thessaly",
+        "powers": [
+          "Strength and agility",
+          "Mastery of archery"
+        ],
+        "family": {
+          "parents": [
+            "Ixion",
+            "Nephele",
+            "Centaurus"
+          ],
+          "siblings": [
+            "Varies"
+          ],
+          "spouse": [
+            "Varies"
+          ]
+        },
+        "stories": [
+          "Battle with the Lapiths",
+          "Tutoring of heroes"
+        ]
+      },
+      "image": "https://example.com/centaur.jpg",
+      "id": 20
+    },
+    {
+      "name": "Stymphalian Birds",
+      "description": "Man-eating birds with bronze beaks, sharp metallic feathers, and toxic dung.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Created by Ares",
+        "symbols": [
+          "Bronze beaks",
+          "Metallic feathers"
+        ],
+        "abode": "Lake Stymphalia in Arcadia",
+        "powers": [
+          "Flesh-eating",
+          "Toxic excrement"
+        ],
+        "family": {
+          "parents": [
+            "Ares"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Sixth Labor of Heracles",
+          "Threat to local populations"
+        ]
+      },
+      "image": "https://example.com/stymphalian-birds.jpg",
+      "id": 21
+    },
+    {
+      "name": "Empusa",
+      "description": "Shape-shifting female monster with a bronze leg and a donkey's foot, known for seducing and devouring travelers.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Daughter of Hecate",
+        "symbols": [
+          "Bronze leg",
+          "Donkey's foot"
+        ],
+        "abode": "Crossroads and desolate places",
+        "powers": [
+          "Shape-shifting",
+          "Seduction"
+        ],
+        "family": {
+          "parents": [
+            "Hecate"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Encounters with travelers",
+          "Association with Hecate"
+        ]
+      },
+      "image": "https://example.com/empusa.jpg",
+      "id": 22
+    },
+    {
+      "name": "Erymanthian Boar",
+      "description": "Enormous wild boar that terrorized the region around Mount Erymanthos.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Sacred to Artemis",
+        "symbols": [
+          "Giant tusks",
+          "Immense size"
+        ],
+        "abode": "Mount Erymanthos",
+        "powers": [
+          "Incredible strength",
+          "Destructive force"
+        ],
+        "family": {
+          "parents": [
+            "Unknown"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Fourth Labor of Heracles",
+          "Devastation of Arcadia"
+        ]
+      },
+      "image": "https://example.com/erymanthian-boar.jpg",
+      "id": 23
+    },
+    {
+      "name": "Lamia",
+      "description": "Child-eating daemon, once a beautiful queen of Libya cursed by Hera.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Cursed by Hera",
+        "symbols": [
+          "Serpentine lower body",
+          "Ability to remove eyes"
+        ],
+        "abode": "Various, often associated with Africa",
+        "powers": [
+          "Shape-shifting",
+          "Prophecy"
+        ],
+        "family": {
+          "parents": [
+            "Poseidon",
+            "Libya"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "Zeus"
+          ]
+        },
+        "stories": [
+          "Curse of Hera",
+          "Devourer of children"
+        ]
+      },
+      "image": "https://example.com/lamia.jpg",
+      "id": 24
+    },
+    {
+      "name": "Talos",
+      "description": "Giant bronze automaton that protected Europa in Crete from pirates and invaders.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Created by Hephaestus",
+        "symbols": [
+          "Bronze body",
+          "Single vein"
+        ],
+        "abode": "Crete",
+        "powers": [
+          "Invulnerability",
+          "Superhuman strength"
+        ],
+        "family": {
+          "parents": [
+            "Hephaestus"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Guardian of Crete",
+          "Defeat by the Argonauts"
+        ]
+      },
+      "image": "https://example.com/talos.jpg",
+      "id": 25
+    },
+    {
+      "name": "Graeae",
+      "description": "Three gray-haired sisters who shared one eye and one tooth among them.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Daughters of Phorcys and Ceto",
+        "symbols": [
+          "Shared eye",
+          "Shared tooth"
+        ],
+        "abode": "Cave near the Gorgons",
+        "powers": [
+          "Foresight",
+          "Guardians of the Gorgons"
+        ],
+        "family": {
+          "parents": [
+            "Phorcys",
+            "Ceto"
+          ],
+          "siblings": [
+            "Gorgons"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Encounter with Perseus",
+          "Guardians of the way to the Gorgons"
+        ]
+      },
+      "image": "https://example.com/graeae.jpg",
+      "id": 26
+    },
+    {
+      "name": "Aethon",
+      "description": "Giant eagle sent by Zeus to eat Prometheus' liver as punishment.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Created by Zeus",
+        "symbols": [
+          "Giant wings",
+          "Sharp beak"
+        ],
+        "abode": "Caucasus Mountains",
+        "powers": [
+          "Immortality",
+          "Daily regeneration of Prometheus' liver"
+        ],
+        "family": {
+          "parents": [
+            "Zeus"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Punishment of Prometheus",
+          "Slain by Heracles"
+        ]
+      },
+      "image": "https://example.com/aethon.jpg",
+      "id": 27
+    },
+    {
+      "name": "Cetus",
+      "description": "Enormous sea monster sent by Poseidon to ravage the kingdom of Ethiopia.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Offspring of Phorcys and Ceto",
+        "symbols": [
+          "Serpentine body",
+          "Massive jaws"
+        ],
+        "abode": "Mediterranean Sea",
+        "powers": [
+          "Control over sea storms",
+          "Immense size"
+        ],
+        "family": {
+          "parents": [
+            "Phorcys",
+            "Ceto"
+          ],
+          "siblings": [
+            "Echidna",
+            "Gorgons"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Threat to Andromeda",
+          "Slain by Perseus"
+        ]
+      },
+      "image": "https://example.com/cetus.jpg",
+      "id": 28
+    },
+    {
+      "name": "Mormo",
+      "description": "Fearsome female spirit who bit bad children and was used to frighten them into obedience.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Companion of Hecate",
+        "symbols": [
+          "Sharp teeth",
+          "Changing form"
+        ],
+        "abode": "Dark places, associated with Hecate",
+        "powers": [
+          "Shape-shifting",
+          "Instilling fear"
+        ],
+        "family": {
+          "parents": [
+            "Unknown"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Frightening disobedient children",
+          "Association with dark magic"
+        ]
+      },
+      "image": "https://example.com/mormo.jpg",
+      "id": 29
+    },
+    {
+      "name": "Phaea",
+      "description": "The Crommyonian Sow, a wild pig that ravaged the area around Crommyon.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Offspring of Echidna and Typhon",
+        "symbols": [
+          "Enormous size",
+          "Destructive nature"
+        ],
+        "abode": "Crommyon",
+        "powers": [
+          "Immense strength",
+          "Ferocity"
+        ],
+        "family": {
+          "parents": [
+            "Echidna",
+            "Typhon"
+          ],
+          "siblings": [
+            "Many monsters"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Slain by Theseus",
+          "Terrorized Crommyon"
+        ]
+      },
+      "image": "https://example.com/phaea.jpg",
+      "id": 30
+    },
+    {
+      "name": "Skolopendra",
+      "description": "Gigantic sea monster resembling a centipede, with multiple legs and a voracious appetite.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Born from the sea",
+        "symbols": [
+          "Numerous legs",
+          "Elongated body"
+        ],
+        "abode": "Mediterranean Sea",
+        "powers": [
+          "Ability to devour entire ships",
+          "Underwater agility"
+        ],
+        "family": {
+          "parents": [
+            "Unknown"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Encounters with sailors",
+          "Threat to maritime travel"
+        ]
+      },
+      "image": "https://example.com/skolopendra.jpg",
+      "id": 31
+    },
+    {
+      "name": "Leucrocotta",
+      "description": "Hybrid beast with the body of a lion, the head of a badger, and cloven hooves.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Offspring of a hyena and a lioness",
+        "symbols": [
+          "Lion body",
+          "Badger head",
+          "Cloven hooves"
+        ],
+        "abode": "India or Ethiopia",
+        "powers": [
+          "Mimicry of human voices",
+          "Speed"
+        ],
+        "family": {
+          "parents": [
+            "Hyena",
+            "Lioness"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Luring humans with voice mimicry",
+          "Encounters with travelers"
+        ]
+      },
+      "image": "https://example.com/leucrocotta.jpg",
+      "id": 32
+    },
+    {
+      "name": "Pyrausta",
+      "description": "Small, four-legged winged creature that lived in fire and died if it flew too far from it.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Born in fire",
+        "symbols": [
+          "Wings",
+          "Fiery habitat"
+        ],
+        "abode": "Copper smelting furnaces of Cyprus",
+        "powers": [
+          "Fire resistance",
+          "Flight"
+        ],
+        "family": {
+          "parents": [
+            "Fire itself"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Living in fire",
+          "Symbol of passionate but short-lived existence"
+        ]
+      },
+      "image": "https://example.com/pyrausta.jpg",
+      "id": 33
+    },
+    {
+      "name": "Karkinos",
+      "description": "Giant crab that fought alongside the Hydra against Heracles.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Sent by Hera",
+        "symbols": [
+          "Giant pincers",
+          "Hard shell"
+        ],
+        "abode": "Lerna",
+        "powers": [
+          "Crushing strength",
+          "Aquatic agility"
+        ],
+        "family": {
+          "parents": [
+            "Unknown"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Battle with Heracles",
+          "Placed among the stars as Cancer"
+        ]
+      },
+      "image": "https://example.com/karkinos.jpg",
+      "id": 34
+    },
+    {
+      "name": "Ophiotaurus",
+      "description": "Creature with the front of a bull and the rear of a serpent, whose entrails granted the power to defeat the gods.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Born during the Titanomachy",
+        "symbols": [
+          "Bull head",
+          "Serpent tail"
+        ],
+        "abode": "Various",
+        "powers": [
+          "Prophecy",
+          "Potential to overthrow gods"
+        ],
+        "family": {
+          "parents": [
+            "Unknown"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Sought after during wars with the gods",
+          "Killed by allies of the Olympians"
+        ]
+      },
+      "image": "https://example.com/ophiotaurus.jpg",
+      "id": 35
+    },
+    {
+      "name": "Taraxippus",
+      "description": "Ghost or spirit that frightened horses at hippodromes, causing them to panic during races.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Various, including ghosts of dead heroes",
+        "symbols": [
+          "Invisible presence",
+          "Horse panic"
+        ],
+        "abode": "Hippodromes and racetracks",
+        "powers": [
+          "Inducing fear in horses",
+          "Invisibility"
+        ],
+        "family": {
+          "parents": [
+            "Unknown"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Disruption of chariot races",
+          "Appeasement through sacrifices"
+        ]
+      },
+      "image": "https://example.com/taraxippus.jpg",
+      "id": 36
+    },
+    {
+      "name": "Teumessian Fox",
+      "description": "Gigantic fox destined never to be caught, sent by the gods to punish the city of Thebes.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Created by the gods",
+        "symbols": [
+          "Uncatchable speed",
+          "Fox form"
+        ],
+        "abode": "Teumessus",
+        "powers": [
+          "Supernatural speed",
+          "Evasion"
+        ],
+        "family": {
+          "parents": [
+            "Unknown"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Hunted by Laelaps",
+          "Both turned to stone by Zeus"
+        ]
+      },
+      "image": "https://example.com/teumessian-fox.jpg",
+      "id": 37
+    },
+    {
+      "name": "Aspidochelone",
+      "description": "A massive sea creature resembling an island, luring sailors to their doom.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Born from the depths of the sea",
+        "symbols": [
+          "Island-like back",
+          "Deceptive stillness"
+        ],
+        "abode": "Open seas",
+        "powers": [
+          "Mimicry of land",
+          "Ability to submerge with trapped prey"
+        ],
+        "family": {
+          "parents": [
+            "Poseidon",
+            "Ancient sea spirit"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Deception of seafarers",
+          "Encounters with heroes at sea"
+        ]
+      },
+      "image": "https://example.com/aspidochelone.jpg",
+      "id": 38
+    },
+    {
+      "name": "Ichthyocentaurs",
+      "description": "Sea-dwelling creatures with the upper body of a human, the lower front of a horse, and the tail of a fish.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Children of Poseidon and a sea nymph",
+        "symbols": [
+          "Fish tail",
+          "Horse legs",
+          "Human torso"
+        ],
+        "abode": "Mediterranean Sea",
+        "powers": [
+          "Control over sea creatures",
+          "Weather manipulation"
+        ],
+        "family": {
+          "parents": [
+            "Poseidon",
+            "Sea nymph"
+          ],
+          "siblings": [
+            "Tritons"
+          ],
+          "spouse": [
+            "Various sea nymphs"
+          ]
+        },
+        "stories": [
+          "Guardians of Aphrodite",
+          "Rescuers of shipwrecked sailors"
+        ]
+      },
+      "image": "https://example.com/ichthyocentaurs.jpg",
+      "id": 39
+    },
+    {
+      "name": "Campe",
+      "description": "Draconic monster with a woman's head and torso, the lower body of a dragon, and various animal heads around her waist.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Created by Tartarus",
+        "symbols": [
+          "Multiple animal heads",
+          "Dragon body"
+        ],
+        "abode": "Tartarus",
+        "powers": [
+          "Poisonous breath",
+          "Superhuman strength"
+        ],
+        "family": {
+          "parents": [
+            "Tartarus",
+            "Gaia"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Guardian of the Cyclopes and Hecatoncheires",
+          "Slain by Zeus"
+        ]
+      },
+      "image": "https://example.com/campe.jpg",
+      "id": 40
+    },
+    {
+      "name": "Hippalectryon",
+      "description": "Hybrid creature with the front half of a horse and the rear of a rooster.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Created by Ares",
+        "symbols": [
+          "Horse head",
+          "Rooster tail"
+        ],
+        "abode": "Fields of war",
+        "powers": [
+          "Swift running",
+          "Loud, intimidating cry"
+        ],
+        "family": {
+          "parents": [
+            "Ares",
+            "Unknown mare"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Herald of war",
+          "Mount of minor war deities"
+        ]
+      },
+      "image": "https://example.com/hippalectryon.jpg",
+      "id": 41
+    },
+    {
+      "name": "Odontotyrannos",
+      "description": "Massive beast with elephant-like tusks and a voracious appetite for human flesh.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Spawned in the wilds of India",
+        "symbols": [
+          "Enormous tusks",
+          "Man-eating maw"
+        ],
+        "abode": "Remote forests of the East",
+        "powers": [
+          "Impenetrable hide",
+          "Insatiable hunger"
+        ],
+        "family": {
+          "parents": [
+            "Unknown"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Terror of distant lands",
+          "Hunted by brave heroes"
+        ]
+      },
+      "image": "https://example.com/odontotyrannos.jpg",
+      "id": 42
+    },
+    {
+      "name": "Crocotta",
+      "description": "A mythical dog-wolf of India, said to imitate human voices to lure prey.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Born from a wolf and a dog",
+        "symbols": [
+          "Mane of a lion",
+          "Jaws of incredible strength"
+        ],
+        "abode": "Forests of India",
+        "powers": [
+          "Voice mimicry",
+          "Crushing bones with ease"
+        ],
+        "family": {
+          "parents": [
+            "Wolf",
+            "Dog"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Luring humans with familiar voices",
+          "Eluding hunters"
+        ]
+      },
+      "image": "https://example.com/crocotta.jpg",
+      "id": 43
+    },
+    {
+      "name": "Cercopes",
+      "description": "Mischievous forest creatures known for their thieving and deceitful nature.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Sons of Oceanus and Theia",
+        "symbols": [
+          "Monkey-like appearance",
+          "Trickster grins"
+        ],
+        "abode": "Forests of Lydia",
+        "powers": [
+          "Shape-shifting",
+          "Cunning trickery"
+        ],
+        "family": {
+          "parents": [
+            "Oceanus",
+            "Theia"
+          ],
+          "siblings": [
+            "Various nymphs"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Attempt to steal from Heracles",
+          "Transformed into monkeys by Zeus"
+        ]
+      },
+      "image": "https://example.com/cercopes.jpg",
+      "id": 44
+    },
+    {
+      "name": "Cecrops",
+      "description": "Mythical first king of Athens, half-man and half-snake.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Born from the earth",
+        "symbols": [
+          "Snake lower body",
+          "Human upper body"
+        ],
+        "abode": "Athens",
+        "powers": [
+          "Wisdom",
+          "Prophetic abilities"
+        ],
+        "family": {
+          "parents": [
+            "Gaia"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "Aglaurus"
+          ]
+        },
+        "stories": [
+          "Founding of Athens",
+          "Judgment between Athena and Poseidon"
+        ]
+      },
+      "image": "https://example.com/cecrops.jpg",
+      "id": 45
+    },
+    {
+      "name": "Scolopendra",
+      "description": "Giant sea serpent with numerous legs, capable of beaching ships.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Spawned in the depths of the sea",
+        "symbols": [
+          "Multitude of legs",
+          "Serpentine body"
+        ],
+        "abode": "Deep ocean trenches",
+        "powers": [
+          "Immense strength",
+          "Amphibious nature"
+        ],
+        "family": {
+          "parents": [
+            "Poseidon",
+            "Sea monster"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Terror of ancient mariners",
+          "Battles with sea heroes"
+        ]
+      },
+      "image": "https://example.com/scolopendra.jpg",
+      "id": 46
+    },
+    {
+      "name": "Striges",
+      "description": "Nocturnal bird-like creatures that fed on human flesh and blood.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Cursed by Hecate",
+        "symbols": [
+          "Owl-like appearance",
+          "Sharp talons"
+        ],
+        "abode": "Dark forests and abandoned ruins",
+        "powers": [
+          "Night vision",
+          "Blood-draining abilities"
+        ],
+        "family": {
+          "parents": [
+            "Unknown"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Nightly attacks on sleeping humans",
+          "Warded off by protective charms"
+        ]
+      },
+      "image": "https://example.com/striges.jpg",
+      "id": 47
+    },
+    {
+      "name": "Telekhines",
+      "description": "Sea demons with flippers for hands and dog-like heads, skilled in metallurgy.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Children of Pontus and Gaia",
+        "symbols": [
+          "Dog heads",
+          "Flipper hands"
+        ],
+        "abode": "Island of Rhodes",
+        "powers": [
+          "Shapeshifting",
+          "Metalworking skills"
+        ],
+        "family": {
+          "parents": [
+            "Pontus",
+            "Gaia"
+          ],
+          "siblings": [
+            "Various sea creatures"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Creators of Poseidon's trident",
+          "Cursed by the gods for their hubris"
+        ]
+      },
+      "image": "https://example.com/telekhines.jpg",
+      "id": 48
+    },
+    {
+      "name": "Hecatonchires",
+      "description": "Giants with a hundred hands and fifty heads, brothers of the Cyclopes.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Children of Uranus and Gaia",
+        "symbols": [
+          "Hundred hands",
+          "Fifty heads"
+        ],
+        "abode": "Tartarus (later guardians of the gates)",
+        "powers": [
+          "Immense strength",
+          "Control over storms"
+        ],
+        "family": {
+          "parents": [
+            "Uranus",
+            "Gaia"
+          ],
+          "siblings": [
+            "Cyclopes",
+            "Titans"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Allies of Zeus in the Titanomachy",
+          "Guardians of Tartarus"
+        ]
+      },
+      "image": "https://example.com/hecatonchires.jpg",
+      "id": 49
+    },
+    {
+      "name": "Arae",
+      "description": "Female spirits of curses, particularly of the curses placed by the dead upon those guilty of their death.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Born from the vengeful thoughts of the dead",
+        "symbols": [
+          "Dark wings",
+          "Bloody talons"
+        ],
+        "abode": "Underworld",
+        "powers": [
+          "Curse infliction",
+          "Vengeance manifestation"
+        ],
+        "family": {
+          "parents": [
+            "Nyx"
+          ],
+          "siblings": [
+            "Keres",
+            "Moirai"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Punishers of murderers",
+          "Servants of the Erinyes"
+        ]
+      },
+      "image": "https://example.com/arae.jpg",
+      "id": 50
+    },
+    {
+      "name": "Hippocamp",
+      "description": "Mythical creature with the upper body of a horse and the lower body of a fish.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Created by Poseidon",
+        "symbols": [
+          "Horse head",
+          "Fish tail"
+        ],
+        "abode": "Mediterranean Sea",
+        "powers": [
+          "Swift swimming",
+          "Water manipulation"
+        ],
+        "family": {
+          "parents": [
+            "Poseidon",
+            "Sea nymph"
+          ],
+          "siblings": [
+            "Various sea creatures"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Pulls Poseidon's chariot",
+          "Guides ships through storms"
+        ]
+      },
+      "image": "https://example.com/hippocamp.jpg",
+      "id": 51
+    },
+    {
+      "name": "Cerastes",
+      "description": "Aggressive horned serpents known for their deadly ambush tactics.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Born from the blood of Medusa",
+        "symbols": [
+          "Horns",
+          "Snake body"
+        ],
+        "abode": "Deserts of Libya",
+        "powers": [
+          "Camouflage",
+          "Venomous bite"
+        ],
+        "family": {
+          "parents": [
+            "Medusa's blood"
+          ],
+          "siblings": [
+            "Various monsters"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Threat to desert travelers",
+          "Transformed into stone by Athena"
+        ]
+      },
+      "image": "https://example.com/cerastes.jpg",
+      "id": 52
+    },
+    {
+      "name": "Amphisbaena",
+      "description": "Serpent with a head at each end, allowing it to move in either direction.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Born from the blood of Medusa",
+        "symbols": [
+          "Two heads",
+          "Serpentine body"
+        ],
+        "abode": "Libyan desert",
+        "powers": [
+          "Bidirectional movement",
+          "Venomous bite"
+        ],
+        "family": {
+          "parents": [
+            "Medusa's blood"
+          ],
+          "siblings": [
+            "Various monsters"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Encountered by the Argonauts",
+          "Used in ancient medicine"
+        ]
+      },
+      "image": "https://example.com/amphisbaena.jpg",
+      "id": 53
+    },
+    {
+      "name": "Catoblepas",
+      "description": "A buffalo-like creature with a head so heavy it could only look downwards, turning any creature that met its gaze to stone.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Native to Ethiopia",
+        "symbols": [
+          "Heavy head",
+          "Deadly gaze"
+        ],
+        "abode": "Marshes of Ethiopia",
+        "powers": [
+          "Petrifying gaze",
+          "Poisonous breath"
+        ],
+        "family": {
+          "parents": [
+            "Unknown"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Encounters with travelers",
+          "Avoided by local populations"
+        ]
+      },
+      "image": "https://example.com/catoblepas.jpg",
+      "id": 54
+    },
+    {
+      "name": "Empousai",
+      "description": "Female vampiric demons with flaming hair, one bronze leg and one donkey leg.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Created by Hecate",
+        "symbols": [
+          "Flaming hair",
+          "Mismatched legs"
+        ],
+        "abode": "Dark places and crossroads",
+        "powers": [
+          "Shape-shifting",
+          "Seduction"
+        ],
+        "family": {
+          "parents": [
+            "Hecate"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Seducing and devouring young men",
+          "Encountered by Odysseus"
+        ]
+      },
+      "image": "https://example.com/empousai.jpg",
+      "id": 55
+    },
+    {
+      "name": "Ophiotaurus",
+      "description": "A creature with the front half of a bull and the rear half of a serpent.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Born during the Titanomachy",
+        "symbols": [
+          "Bull head",
+          "Serpent tail"
+        ],
+        "abode": "Various",
+        "powers": [
+          "Prophecy",
+          "Power to overthrow gods"
+        ],
+        "family": {
+          "parents": [
+            "Unknown"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Hunted by both Titans and Olympians",
+          "Killed and burned by allies of Zeus"
+        ]
+      },
+      "image": "https://example.com/ophiotaurus.jpg",
+      "id": 56
+    },
+    {
+      "name": "Taraxippus",
+      "description": "A malevolent spirit that spooked horses at racetracks, causing them to panic.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Various, including ghosts of fallen heroes",
+        "symbols": [
+          "Invisible presence",
+          "Horse panic"
+        ],
+        "abode": "Racetracks and hippodromes",
+        "powers": [
+          "Invisibility",
+          "Horse manipulation"
+        ],
+        "family": {
+          "parents": [
+            "Unknown"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Disruption of chariot races",
+          "Appeased through sacrifices"
+        ]
+      },
+      "image": "https://example.com/taraxippus.jpg",
+      "id": 57
+    },
+    {
+      "name": "Ceuthonymus",
+      "description": "A monstrous being said to drag the souls of the dead down to the underworld.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Born in the depths of Tartarus",
+        "symbols": [
+          "Dark form",
+          "Soul-dragging chains"
+        ],
+        "abode": "Entrance to the underworld",
+        "powers": [
+          "Soul manipulation",
+          "Underworld travel"
+        ],
+        "family": {
+          "parents": [
+            "Nyx"
+          ],
+          "siblings": [
+            "Various chthonic deities"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Guiding souls to judgment",
+          "Encounters with heroes in the underworld"
+        ]
+      },
+      "image": "https://example.com/ceuthonymus.jpg",
+      "id": 58
+    },
+    {
+      "name": "Pyrisoous",
+      "description": "A giant, flaming boar that ravaged the countryside.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Created by Ares",
+        "symbols": [
+          "Flaming tusks",
+          "Bristling fire"
+        ],
+        "abode": "Forests of Calydon",
+        "powers": [
+          "Fire manipulation",
+          "Devastating strength"
+        ],
+        "family": {
+          "parents": [
+            "Ares"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Hunted by heroes",
+          "Destruction of crops and villages"
+        ]
+      },
+      "image": "https://example.com/pyrisoous.jpg",
+      "id": 59
+    },
+    {
+      "name": "Cychreides",
+      "description": "A giant serpent that terrorized the island of Salamis before being driven out or slain.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Spawned from the earth",
+        "symbols": [
+          "Enormous size",
+          "Serpentine form"
+        ],
+        "abode": "Island of Salamis",
+        "powers": [
+          "Constriction",
+          "Venom"
+        ],
+        "family": {
+          "parents": [
+            "Gaia"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Terrorizing Salamis",
+          "Defeated by Cychreus"
+        ]
+      },
+      "image": "https://example.com/cychreides.jpg",
+      "id": 60
+    },
+    {
+      "name": "Cetus",
+      "description": "A sea monster sent by Poseidon to ravage the kingdom of Aethiopia.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Created by Poseidon",
+        "symbols": [
+          "Whale-like body",
+          "Serpentine features"
+        ],
+        "abode": "Mediterranean Sea",
+        "powers": [
+          "Massive size",
+          "Control over sea storms"
+        ],
+        "family": {
+          "parents": [
+            "Poseidon"
+          ],
+          "siblings": [
+            "Various sea monsters"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Threat to Andromeda",
+          "Slain by Perseus"
+        ]
+      },
+      "image": "https://example.com/cetus.jpg",
+      "id": 61
+    },
+    {
+      "name": "Lycanthrope",
+      "description": "Humans with the ability to shapeshift into wolves or wolf-like creatures.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Cursed by the gods",
+        "symbols": [
+          "Wolf form",
+          "Full moon"
+        ],
+        "abode": "Forests and rural areas",
+        "powers": [
+          "Shapeshifting",
+          "Enhanced strength"
+        ],
+        "family": {
+          "parents": [
+            "Varies"
+          ],
+          "siblings": [
+            "Varies"
+          ],
+          "spouse": [
+            "Varies"
+          ]
+        },
+        "stories": [
+          "Curse of Lycaon",
+          "Terrorizing villages"
+        ]
+      },
+      "image": "https://example.com/lycanthrope.jpg",
+      "id": 62
+    },
+    {
+      "name": "Strix",
+      "description": "Nocturnal bird of ill omen that fed on human flesh and blood.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Transformed by the gods",
+        "symbols": [
+          "Owl-like appearance",
+          "Hooked beak"
+        ],
+        "abode": "Dark forests",
+        "powers": [
+          "Flight",
+          "Blood-drinking"
+        ],
+        "family": {
+          "parents": [
+            "Unknown"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Attacking infants",
+          "Warded off by magical rituals"
+        ]
+      },
+      "image": "https://example.com/strix.jpg",
+      "id": 63
+    },
+    {
+      "name": "Scylla",
+      "description": "Sea monster with multiple heads and dog-like lower bodies.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Transformed nymph",
+        "symbols": [
+          "Multiple heads",
+          "Dog-like lower bodies"
+        ],
+        "abode": "Strait of Messina",
+        "powers": [
+          "Multiple attacks",
+          "Luring sailors"
+        ],
+        "family": {
+          "parents": [
+            "Phorcys",
+            "Ceto"
+          ],
+          "siblings": [
+            "Various sea monsters"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Encounter with Odysseus",
+          "Transformation by Circe"
+        ]
+      },
+      "image": "https://example.com/scylla.jpg",
+      "id": 64
+    },
+    {
+      "name": "Charybdis",
+      "description": "Sea monster that created whirlpools by sucking in and spitting out vast amounts of water.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Daughter of Poseidon and Gaia",
+        "symbols": [
+          "Whirlpool",
+          "Gaping maw"
+        ],
+        "abode": "Strait of Messina",
+        "powers": [
+          "Water manipulation",
+          "Creating whirlpools"
+        ],
+        "family": {
+          "parents": [
+            "Poseidon",
+            "Gaia"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Threat to sailors",
+          "Opposite of Scylla"
+        ]
+      },
+      "image": "https://example.com/charybdis.jpg",
+      "id": 65
+    },
+    {
+      "name": "Nemean Lion",
+      "description": "A monstrous lion with an impenetrable golden fur.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Offspring of Typhon and Echidna",
+        "symbols": [
+          "Golden fur",
+          "Invulnerability"
+        ],
+        "abode": "Nemea",
+        "powers": [
+          "Impenetrable hide",
+          "Superhuman strength"
+        ],
+        "family": {
+          "parents": [
+            "Typhon",
+            "Echidna"
+          ],
+          "siblings": [
+            "Various monsters"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "First labor of Heracles",
+          "Skin used as armor"
+        ]
+      },
+      "image": "https://example.com/nemean-lion.jpg",
+      "id": 66
+    },
+    {
+      "name": "Crommyonian Sow",
+      "description": "A giant pig that ravaged the area around Crommyon.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Offspring of Typhon and Echidna",
+        "symbols": [
+          "Enormous size",
+          "Destructive nature"
+        ],
+        "abode": "Crommyon",
+        "powers": [
+          "Immense strength",
+          "Ferocity"
+        ],
+        "family": {
+          "parents": [
+            "Typhon",
+            "Echidna"
+          ],
+          "siblings": [
+            "Various monsters"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Defeated by Theseus",
+          "Terrorized Crommyon"
+        ]
+      },
+      "image": "https://example.com/crommyonian-sow.jpg",
+      "id": 67
+    },
+    {
+      "name": "Teumessian Fox",
+      "description": "A giant fox destined never to be caught, sent to ravage the countryside of Thebes.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Created by the gods",
+        "symbols": [
+          "Uncatchable speed",
+          "Fox form"
+        ],
+        "abode": "Teumessus",
+        "powers": [
+          "Divine speed",
+          "Evasion"
+        ],
+        "family": {
+          "parents": [
+            "Unknown"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Hunted by Laelaps",
+          "Both turned to stone by Zeus"
+        ]
+      },
+      "image": "https://example.com/teumessian-fox.jpg",
+      "id": 68
+    },
+    {
+      "name": "Panes",
+      "description": "Goat-legged nature spirits known for their mischievous behavior and musical abilities.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Children of Hermes",
+        "symbols": [
+          "Goat legs",
+          "Pan flute"
+        ],
+        "abode": "Forests and wild places",
+        "powers": [
+          "Nature manipulation",
+          "Musical enchantment"
+        ],
+        "family": {
+          "parents": [
+            "Hermes",
+            "Various nymphs"
+          ],
+          "siblings": [
+            "Satyrs"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Followers of Dionysus",
+          "Causing 'panic' in humans"
+        ]
+      },
+      "image": "https://example.com/panes.jpg",
+      "id": 69
+    },
+    {
+      "name": "Talos",
+      "description": "A giant bronze automaton that protected Europa in Crete.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Created by Hephaestus",
+        "symbols": [
+          "Bronze body",
+          "Single vein of ichor"
+        ],
+        "abode": "Island of Crete",
+        "powers": [
+          "Invulnerability",
+          "Superhuman strength"
+        ],
+        "family": {
+          "parents": [
+            "Hephaestus"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Guardian of Crete",
+          "Defeated by Medea"
+        ]
+      },
+      "image": "https://example.com/talos.jpg",
+      "id": 70
+    },
+    {
+      "name": "Gegenees",
+      "description": "A race of six-armed giants that inhabited the island of Bear Mountain.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Born from Gaia",
+        "symbols": [
+          "Six arms",
+          "Massive size"
+        ],
+        "abode": "Bear Mountain",
+        "powers": [
+          "Immense strength",
+          "Multiple limb coordination"
+        ],
+        "family": {
+          "parents": [
+            "Gaia"
+          ],
+          "siblings": [
+            "Various earth-born creatures"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Battle with the Argonauts",
+          "Defeated by Heracles"
+        ]
+      },
+      "image": "https://example.com/gegenees.jpg",
+      "id": 71
+    },
+    {
+      "name": "Keres",
+      "description": "Female death-spirits who personified violent death and were drawn to battlefields.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Children of Nyx",
+        "symbols": [
+          "Black wings",
+          "Bloody talons"
+        ],
+        "abode": "Underworld",
+        "powers": [
+          "Death manipulation",
+          "Battle frenzy"
+        ],
+        "family": {
+          "parents": [
+            "Nyx"
+          ],
+          "siblings": [
+            "Thanatos",
+            "Hypnos"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Presence in epic battles",
+          "Feared by warriors"
+        ]
+      },
+      "image": "https://example.com/keres.jpg",
+      "id": 72
+    },
+    {
+      "name": "Mormo",
+      "description": "A fearsome female spirit used to frighten children into obedience.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Associated with Hecate",
+        "symbols": [
+          "Vampiric features",
+          "Terrifying visage"
+        ],
+        "abode": "Dark places",
+        "powers": [
+          "Shape-shifting",
+          "Inducing fear"
+        ],
+        "family": {
+          "parents": [
+            "Unknown"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Threatening disobedient children",
+          "Nocturnal hauntings"
+        ]
+      },
+      "image": "https://example.com/mormo.jpg",
+      "id": 73
+    },
+    {
+      "name": "Alcyoneus",
+      "description": "The eldest of the Giants, born to oppose the Olympian gods.",
+      "category": "Giant",
+      "attributes": {
+        "origin": "Son of Gaia and Uranus",
+        "symbols": [
+          "Massive size",
+          "Immortality on native soil"
+        ],
+        "abode": "Pallene, Thrace",
+        "powers": [
+          "Immortality in homeland",
+          "Superhuman strength"
+        ],
+        "family": {
+          "parents": [
+            "Gaia",
+            "Uranus"
+          ],
+          "siblings": [
+            "Other Giants"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Battle with Heracles",
+          "Defeat when dragged from native land"
+        ]
+      },
+      "image": "https://example.com/alcyoneus.jpg",
+      "id": 74
+    },
+    {
+      "name": "Antaeus",
+      "description": "A giant who challenged passersby to wrestling matches and gained strength from contact with the earth.",
+      "category": "Giant",
+      "attributes": {
+        "origin": "Son of Poseidon and Gaia",
+        "symbols": [
+          "Wrestling stance",
+          "Connection to earth"
+        ],
+        "abode": "Libya",
+        "powers": [
+          "Strength from earth contact",
+          "Wrestling prowess"
+        ],
+        "family": {
+          "parents": [
+            "Poseidon",
+            "Gaia"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Defeat by Heracles",
+          "Building temple from skulls of victims"
+        ]
+      },
+      "image": "https://example.com/antaeus.jpg",
+      "id": 75
+    },
+    {
+      "name": "Argus Panoptes",
+      "description": "A giant with a hundred eyes, known for his watchfulness.",
+      "category": "Giant",
+      "attributes": {
+        "origin": "Son of Arestor",
+        "symbols": [
+          "Hundred eyes",
+          "Watchful gaze"
+        ],
+        "abode": "Arcadia",
+        "powers": [
+          "All-seeing vision",
+          "Tireless vigilance"
+        ],
+        "family": {
+          "parents": [
+            "Arestor"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Guardian of Io",
+          "Slain by Hermes"
+        ]
+      },
+      "image": "https://example.com/argus-panoptes.jpg",
+      "id": 76
+    },
+    {
+      "name": "Colchian Dragon",
+      "description": "A sleepless dragon that guarded the Golden Fleece.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Created by Ares",
+        "symbols": [
+          "Coiled serpent",
+          "Vigilant eyes"
+        ],
+        "abode": "Colchis",
+        "powers": [
+          "Sleeplessness",
+          "Venomous bite"
+        ],
+        "family": {
+          "parents": [
+            "Ares"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Guardian of the Golden Fleece",
+          "Defeated by Jason and Medea"
+        ]
+      },
+      "image": "https://example.com/colchian-dragon.jpg",
+      "id": 77
+    },
+    {
+      "name": "Python",
+      "description": "A monstrous serpent that lived in the center of the earth, guarding the Oracle of Delphi.",
+      "category": "Monster",
+      "attributes": {
+        "origin": "Child of Gaia",
+        "symbols": [
+          "Coiled serpent",
+          "Oracle guardian"
+        ],
+        "abode": "Delphi",
+        "powers": [
+          "Prophecy",
+          "Earth connection"
+        ],
+        "family": {
+          "parents": [
+            "Gaia"
+          ],
+          "siblings": [
+            "None"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Slain by Apollo",
+          "Guardian of the Delphic Oracle"
+        ]
+      },
+      "image": "https://example.com/python.jpg",
+      "id": 78
+    },
+    {
+      "name": "Steropes",
+      "description": "One of the elder Cyclopes, known for creating Zeus's thunderbolts.",
+      "category": "Giant",
+      "attributes": {
+        "origin": "Son of Uranus and Gaia",
+        "symbols": [
+          "Single eye",
+          "Thunderbolt"
+        ],
+        "abode": "Mount Etna",
+        "powers": [
+          "Smithing",
+          "Lightning creation"
+        ],
+        "family": {
+          "parents": [
+            "Uranus",
+            "Gaia"
+          ],
+          "siblings": [
+            "Brontes",
+            "Arges"
+          ],
+          "spouse": [
+            "None"
+          ]
+        },
+        "stories": [
+          "Forging Zeus's weapons",
+          "Imprisonment by Cronus"
+        ]
+      },
+      "image": "https://example.com/steropes.jpg",
+      "id": 79
+    }
+  ]
+}
